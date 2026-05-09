@@ -1,0 +1,294 @@
+const_no,const_name,winner_name,winner_party,runner_name,runner_party,margin,status
+12,ALIPURDUARS,PARITOSH DAS,Bharatiya Janata Party,SUMAN KANJILAL,All India Trinamool Congress,70420.0,Result Declared
+102,AMDANGA,MOHAMMAD KASEM SIDDIQUE,All India Trinamool Congress,ARINDAM DEY,Bharatiya Janata Party,2995.0,Result Declared
+181,AMTA,AMIT SAMANTA,Bharatiya Janata Party,SUKANTA KUMAR PAUL,All India Trinamool Congress,4454.0,Result Declared
+200,ARAMBAG,BAG HEMANTA,Bharatiya Janata Party,BAG MITA,All India Trinamool Congress,28959.0,Result Declared
+280,ASANSOL DAKSHIN,AGNIMITRA PAUL,Bharatiya Janata Party,TAPAS BANERJEE,All India Trinamool Congress,40839.0,Result Declared
+281,ASANSOL UTTAR,KRISHNENDU MUKHERJEE,Bharatiya Janata Party,MOLOY GHATAK,All India Trinamool Congress,11615.0,Result Declared
+101,ASHOKNAGAR,DR. SUMAY HIRA,Bharatiya Janata Party,NARAYAN GOSWAMI,All India Trinamool Congress,9408.0,Result Declared
+273,AUSGRAM,KALITA MAJI,Bharatiya Janata Party,SHYAMA PRASANNA LOHAR,All India Trinamool Congress,12535.0,Result Declared
+99,BADURIA,BURHANUL MUKADDIM (LITON),All India Trinamool Congress,SUKRITI KUMAR SARKAR,Bharatiya Janata Party,40061.0,Result Declared
+94,BAGDA,SOMA THAKUR,Bharatiya Janata Party,MADHUPARNA THAKUR,All India Trinamool Congress,34616.0,Result Declared
+240,BAGHMUNDI,RAHIDAS MAHATO,Bharatiya Janata Party,SUSHANTA MAHATO,All India Trinamool Congress,40817.0,Result Declared
+180,BAGNAN,ARUNAVA SEN,All India Trinamool Congress,PRAMANSHU RANA,Bharatiya Janata Party,11316.0,Result Declared
+72,BAHARAMPUR,SUBRATA MAITRA (KANCHAN),Bharatiya Janata Party,ADHIR RANJAN CHOWDHURY,Indian National Congress,17548.0,Result Declared
+54,BAISNABNAGAR,RAJU KARMAKAR,Bharatiya Janata Party,CHANDANA SARKAR,All India Trinamool Congress,46881.0,Result Declared
+191,BALAGARH,SUMANA SARKAR,Bharatiya Janata Party,RANJAN DHARA,All India Trinamool Congress,41914.0,Result Declared
+239,BALARAMPUR,JALADHAR MAHATO,Bharatiya Janata Party,SHANTIRAM MAHATO,All India Trinamool Congress,35051.0,Result Declared
+169,BALLY,SANJAY KUMAR SINGH,Bharatiya Janata Party,KAILASH KUMAR MISHRA,All India Trinamool Congress,11997.0,Result Declared
+161,BALLYGUNGE,SOBHANDEB CHATTOPADHYAY,All India Trinamool Congress,SHATORUPA,Bharatiya Janata Party,61476.0,Result Declared
+39,BALURGHAT,BIDYUT KUMAR ROY,Bharatiya Janata Party,ARPITA GHOSH,All India Trinamool Congress,47576.0,Result Declared
+238,BANDWAN,LABSEN BASKEY,Bharatiya Janata Party,RAJIB LOCHAN SAREN,All India Trinamool Congress,29577.0,Result Declared
+96,BANGAON DAKSHIN,SWAPAN MAJUMDER,Bharatiya Janata Party,RITUPARNA ADDHYA,All India Trinamool Congress,37814.0,Result Declared
+95,BANGAON UTTAR,ASHOK KIRTANIA,Bharatiya Janata Party,BISWAJIT DAS,All India Trinamool Congress,40670.0,Result Declared
+252,BANKURA,NILADRI SEKHAR DANA,Bharatiya Janata Party,DR. ANUP MANDAL,All India Trinamool Congress,54177.0,Result Declared
+283,BARABANI,ARIJIT ROY,Bharatiya Janata Party,BIDHAN UPADHYAY,All India Trinamool Congress,11722.0,Result Declared
+113,BARANAGAR,SAJAL GHOSH,Bharatiya Janata Party,SAYANTIKA BANERJEE,All India Trinamool Congress,16956.0,Result Declared
+119,BARASAT,SANKAR CHATTERJEE,Bharatiya Janata Party,SABYASACHI DUTTA,All India Trinamool Congress,34558.0,Result Declared
+260,BARDHAMAN DAKSHIN,MOUMITA BISWAS MISRA,Bharatiya Janata Party,KHOKAN DAS,All India Trinamool Congress,30470.0,Result Declared
+266,BARDHAMAN UTTAR,NISITH KUMAR MALIK,All India Trinamool Congress,SANJOY DAS,Bharatiya Janata Party,6460.0,Result Declared
+253,BARJORA,BILLESWAR SINHA,Bharatiya Janata Party,GOUTAM MISHRA (SHYAM),All India Trinamool Congress,41310.0,Result Declared
+108,BARRACKPUR,KAUSTUV BAGCHI,Bharatiya Janata Party,RAJ CHAKRABORTY (RAJU),All India Trinamool Congress,15822.0,Result Declared
+140,BARUIPUR PASCHIM,BIMAN BANERJEE,All India Trinamool Congress,BISWAJIT PAUL,Bharatiya Janata Party,17862.0,Result Declared
+137,BARUIPUR PURBA,BIVAS SARDAR,All India Trinamool Congress,TUMPA SARDAR,Bharatiya Janata Party,31815.0,Result Declared
+128,BASANTI,NILIMA MISTRY BISHAL,All India Trinamool Congress,BIKASH SARDAR,Bharatiya Janata Party,56181.0,Result Declared
+124,BASIRHAT DAKSHIN,SURAJIT MITRA (BADAL),All India Trinamool Congress,DR. SOURYA BANERJEE,Bharatiya Janata Party,9544.0,Result Declared
+125,BASIRHAT UTTAR,MD. TAUSEFFUR RAHMAN,All India Trinamool Congress,MD. MUSA KAREMULLA,All India Secular Front,57270.0,Result Declared
+154,BEHALA PASCHIM,DR. INDRANIL KHAN,Bharatiya Janata Party,RATNA CHATTERJEE,All India Trinamool Congress,24699.0,Result Declared
+153,BEHALA PURBA,SANKAR SIKDER,Bharatiya Janata Party,SUBHASISH CHAKRABORTY,All India Trinamool Congress,25137.0,Result Declared
+71,BELDANGA,BHARAT KUMAR JHAWAR,Bharatiya Janata Party,RABIUL ALAM CHOWDHURY,All India Trinamool Congress,13208.0,Result Declared
+164,BELEGHATA,KUNAL KUMAR GHOSH,All India Trinamool Congress,PARTHA CHAUDHURY,Bharatiya Janata Party,28576.0,Result Declared
+159,BHABANIPUR,ADHIKARI SUVENDU,Bharatiya Janata Party,MAMATA BANERJEE,All India Trinamool Congress,15105.0,Result Declared
+214,BHAGABANPUR,SANTANU PRAMANIK,Bharatiya Janata Party,MANAB KUMAR PARUA,All India Trinamool Congress,20878.0,Result Declared
+62,BHAGAWANGOLA,REYAT HOSSAIN SARKAR,All India Trinamool Congress,MAHAMUDAL HASAN,Communist Party of India (Marxist),56407.0,Result Declared
+148,BHANGAR,MD NAWSAD SIDDIQUE,All India Secular Front,SAOKAT MOLLA,All India Trinamool Congress,32088.0,Result Declared
+69,BHARATPUR,MUSTAFIJUR RAHAMAN (SUMAN),All India Trinamool Congress,ANAMIKA GHOSH,Bharatiya Janata Party,30753.0,Result Declared
+267,BHATAR,KARFA SOUMEN,Bharatiya Janata Party,KONER SHANTANU,All India Trinamool Congress,6528.0,Result Declared
+105,BHATPARA,PAWAN KUMAR SINGH,Bharatiya Janata Party,AMIT GUPTA,All India Trinamool Congress,22807.0,Result Declared
+116,BIDHANNAGAR,SHARADWAT MUKHERJEE,Bharatiya Janata Party,SUJIT BOSE,All India Trinamool Congress,37330.0,Result Declared
+103,BIJPUR,SUDIPTA DAS,Bharatiya Janata Party,SUBODH ADHIKARY,All India Trinamool Congress,13343.0,Result Declared
+237,BINPUR,DR. PRANAT TUDU,Bharatiya Janata Party,BIRBAHA HANSDA,All India Trinamool Congress,22977.0,Result Declared
+146,BISHNUPUR,DILIP MONDAL,All India Trinamool Congress,ABHIJIT SARDAR,Bharatiya Janata Party,36925.0,Result Declared
+255,BISHNUPUR,SHUKLA CHATTERJEE,Bharatiya Janata Party,TANMAY GHOSH (BUMBA),All India Trinamool Congress,30605.0,Result Declared
+286,BOLPUR,CHANDRANATH SINHA,All India Trinamool Congress,DILIP GHOSH,Bharatiya Janata Party,13188.0,Result Declared
+156,BUDGE BUDGE,ASHOK KUMAR DEB,All India Trinamool Congress,DR TARUN KUMAR ADAK,Bharatiya Janata Party,46850.0,Result Declared
+67,BURWAN,SUKHEN KUMAR BAGDI,Bharatiya Janata Party,PROTIMA RAJAK,All India Trinamool Congress,22300.0,Result Declared
+138,CANNING PASCHIM,PARESH RAM DAS,All India Trinamool Congress,Prasanta Bayen,Bharatiya Janata Party,40665.0,Result Declared
+139,CANNING PURBA,MD BAHARUL ISLAM,All India Trinamool Congress,ARABUL ISLAM,All India Secular Front,91954.0,Result Declared
+91,CHAKDAHA,BANKIM CHANDRA GHOSH,Bharatiya Janata Party,SUBHANKAR SINGHA (JISHU),All India Trinamool Congress,36945.0,Result Declared
+31,CHAKULIA,AZAD MINHAJUL ARFIN,All India Trinamool Congress,MANOJ KUMAR JAIN,Bharatiya Janata Party,28011.0,Result Declared
+187,CHAMPDANI,DILIP SINGH,Bharatiya Janata Party,ARINDAM GUIN (BUBAI),All India Trinamool Congress,3026.0,Result Declared
+45,CHANCHAL,PRASUN BANERJEE,All India Trinamool Congress,RATAN DAS,Bharatiya Janata Party,63874.0,Result Declared
+189,CHANDANNAGAR,Deepanjan Kumar Guha,Bharatiya Janata Party,Indranil Sen,All India Trinamool Congress,13441.0,Result Declared
+211,CHANDIPUR,PIJUSH KANTI DAS,Bharatiya Janata Party,UTTAM BARIK,All India Trinamool Congress,20270.0,Result Declared
+194,CHANDITALA,SWATI KHANDOKER,All India Trinamool Congress,DEBASISH MUKHERJEE,Bharatiya Janata Party,19663.0,Result Declared
+232,CHANDRAKONA,SUKANTA DOLUI,Bharatiya Janata Party,DOLOI SURJYA KANTA,All India Trinamool Congress,33481.0,Result Declared
+82,CHAPRA,JEBER SEKH,All India Trinamool Congress,SAIKAT SARKAR,Bharatiya Janata Party,30780.0,Result Declared
+248,CHHATNA,SATYANARAYAN MUKHOPADHYAY,Bharatiya Janata Party,SWAPAN KUMAR MONDAL,All India Trinamool Congress,47174.0,Result Declared
+28,CHOPRA,HAMIDUL RAHAMAN,All India Trinamool Congress,SANKAR ADHIKARI,Bharatiya Janata Party,69124.0,Result Declared
+162,CHOWRANGEE,BANDYOPADHYAY NAYNA,All India Trinamool Congress,SANTOSH KUMAR PATHAK,Bharatiya Janata Party,22002.0,Result Declared
+190,CHUNCHURA,SUBIR NAG,Bharatiya Janata Party,DEBANGSHU BHATTACHARYA,All India Trinamool Congress,43435.0,Result Declared
+4,COOCHBEHAR DAKSHIN,RATHINDRA BOSE,Bharatiya Janata Party,AVIJIT DE BHOWMIK,All India Trinamool Congress,23284.0,Result Declared
+3,COOCHBEHAR UTTAR,SUKUMAR RAY,Bharatiya Janata Party,PARTHA PRATIM RAY,All India Trinamool Congress,70384.0,Result Declared
+19,DABGRAM-FULBARI,SIKHA CHATTERJEE,Bharatiya Janata Party,RANJAN SIL SHARMA,All India Trinamool Congress,97715.0,Result Declared
+219,DANTAN,AJIT KUMAR JANA,Bharatiya Janata Party,MANIK MAITI,All India Trinamool Congress,10376.0,Result Declared
+23,DARJEELING,NOMAN RAI,Bharatiya Janata Party,BIJOY KUMAR RAI,Bharatiya Gorkha Prajatantrik Morcha,6057.0,Result Declared
+230,DASPUR,TAPAN KUMAR DUTTA,Bharatiya Janata Party,ASHIS HUDAIT,All India Trinamool Congress,32134.0,Result Declared
+229,DEBRA,SUBHASHIS OM,Bharatiya Janata Party,RAJIB BANERJEE,All India Trinamool Congress,28801.0,Result Declared
+120,DEGANGA,ANISUR RAHAMAN BIDESH,All India Trinamool Congress,MD MOFIDUL HOQUE SAHAJI MINTU,All India Secular Front,17818.0,Result Declared
+197,DHANEKHALI,ASIMA PATRA,All India Trinamool Congress,BARNALI DAS,Bharatiya Janata Party,13057.0,Result Declared
+15,DHUPGURI,NARESH ROY,Bharatiya Janata Party,NIRMAL CHANDRA ROY,All India Trinamool Congress,38550.0,Result Declared
+143,DIAMOND HARBOUR,PANNA LAL HALDER,All India Trinamool Congress,DIPAK KUMAR HALDER,Bharatiya Janata Party,31266.0,Result Declared
+7,DINHATA,AJAY RAY,Bharatiya Janata Party,UDAYAN GUHA,All India Trinamool Congress,17447.0,Result Declared
+184,DOMJUR,TAPAS MAITY,All India Trinamool Congress,GOBINDA HAZRA,Bharatiya Janata Party,42177.0,Result Declared
+75,DOMKAL,MD. MOSTAFIJUR RAHAMAN,Communist Party of India (Marxist),HUMAYUN KABIR,All India Trinamool Congress,16296.0,Result Declared
+284,DUBRAJPUR,ANUP KUMAR SAHA,Bharatiya Janata Party,NARESH CHANDRA BAURI,All India Trinamool Congress,27647.0,Result Declared
+114,DUM DUM,ARIJIT BAKSHI,Bharatiya Janata Party,BRATYABRATA BASU,All India Trinamool Congress,25273.0,Result Declared
+110,DUM DUM UTTAR,SOURAV SIKDAR,Bharatiya Janata Party,CHANDRIMA BHATTACHARYA,All India Trinamool Congress,26404.0,Result Declared
+277,DURGAPUR PASCHIM,LAKSHMAN CHANDRA GHORUI,Bharatiya Janata Party,KABI DUTTA,All India Trinamool Congress,37598.0,Result Declared
+276,DURGAPUR PURBA,CHANDRA SEKHAR BANERJEE,Bharatiya Janata Party,PRADIP MAZUMDAR,All India Trinamool Congress,30934.0,Result Declared
+218,EGRA,ADHIKARI DIBYENDU,Bharatiya Janata Party,TARUN KUMAR MAITY,All India Trinamool Congress,25692.0,Result Declared
+51,ENGLISH BAZAR,AMLAN BHADURI (BURO),Bharatiya Janata Party,ASIS KUNDU (PATA),All India Trinamool Congress,93784.0,Result Declared
+163,ENTALLY,SANDIPAN SAHA,All India Trinamool Congress,DR. PRIYANKA TIBREWAL,Bharatiya Janata Party,34006.0,Result Declared
+13,FALAKATA,DIPAK BARMAN,Bharatiya Janata Party,SUBHASH CHANDRA ROY,All India Trinamool Congress,45999.0,Result Declared
+55,FARAKKA,MOTAB SHAIKH,Indian National Congress,SUNIL CHOWDHURI,Bharatiya Janata Party,8193.0,Result Declared
+97,GAIGHATA,SUBRATA THAKUR,Bharatiya Janata Party,NAROTTAM BISWAS,All India Trinamool Congress,47683.0,Result Declared
+274,GALSI,RAJU PATRA,Bharatiya Janata Party,ALOK KUMAR MAJHI,All India Trinamool Congress,10494.0,Result Declared
+41,GANGARAMPUR,SATYENDRA NATH ROY,Bharatiya Janata Party,Goutam Das,All India Trinamool Congress,28339.0,Result Declared
+233,GARBETA,PRADIP LODHA,Bharatiya Janata Party,UTTARA SINGHA (HAZRA),All India Trinamool Congress,26225.0,Result Declared
+44,GAZOLE,CHINMOY DEB BARMAN,Bharatiya Janata Party,PRASENJIT DAS,All India Trinamool Congress,38192.0,Result Declared
+231,GHATAL,SITAL KAPAT,Bharatiya Janata Party,SHYAMALI SARDAR,All India Trinamool Congress,37657.0,Result Declared
+30,GOALPOKHAR,MD GHULAM RABBANI,All India Trinamool Congress,SARAJIT BISWAS,Bharatiya Janata Party,83790.0,Result Declared
+201,GOGHAT,PRASANTA DIGAR,Bharatiya Janata Party,DR. NIRMAL MAJI,All India Trinamool Congress,49582.0,Result Declared
+221,GOPIBALLAVPUR,RAJESH MAHATA,Bharatiya Janata Party,AJIT MAHATA,All India Trinamool Congress,26675.0,Result Declared
+127,GOSABA,BIKARNA NASKAR,Bharatiya Janata Party,SUBRATA MONDAL,All India Trinamool Congress,16100.0,Result Declared
+43,HABIBPUR,JOYEL MURMU,Bharatiya Janata Party,AMAL KISKU,All India Trinamool Congress,78188.0,Result Declared
+100,HABRA,DEBDAS MONDAL,Bharatiya Janata Party,JYOTI PRIYA MALLICK,All India Trinamool Congress,31462.0,Result Declared
+209,HALDIA,PRADIP KUMAR BIJALI,Bharatiya Janata Party,TAPASI MONDAL,All India Trinamool Congress,49062.0,Result Declared
+292,HANSAN,FAYEZUL HAQUE (KAJAL SK),All India Trinamool Congress,NIKHIL BANERJEE,Bharatiya Janata Party,28298.0,Result Declared
+73,HARIHARPARA,NIAMOT SHEIKH,All India Trinamool Congress,BIJOY SEKH,Aam Janata Unnayan party,12665.0,Result Declared
+93,HARINGHATA,ASIM KUMAR SARKAR,Bharatiya Janata Party,DR. RAJIB BISWAS.,All India Trinamool Congress,22055.0,Result Declared
+196,HARIPAL,MADHUMITA GHOSH,Bharatiya Janata Party,KARABI MANNA,All India Trinamool Congress,3488.0,Result Declared
+42,HARIRAMPUR,BIPLAB MITRA,All India Trinamool Congress,DEBABRATA MAJUMDER,Bharatiya Janata Party,1986.0,Result Declared
+46,HARISCHANDRAPUR,MD. MATIBUR RAHAMAN,All India Trinamool Congress,RATAN DAS,Bharatiya Janata Party,48271.0,Result Declared
+121,HAROA,ABDUL MATIN MUHAMMAD,All India Trinamool Congress,PIYARUL ISLAM,All India Secular Front,49341.0,Result Declared
+33,HEMTABAD,HARIPADA BARMAN,Bharatiya Janata Party,SATYAJIT BARMAN,All India Trinamool Congress,12361.0,Result Declared
+126,HINGALGANJ,REKHA PATRA,Bharatiya Janata Party,ANANDA SARKAR,All India Trinamool Congress,5421.0,Result Declared
+173,HOWRAH DAKSHIN,NANDITA CHOWDHURY,All India Trinamool Congress,SHYAMAL KUMAR HATI,Bharatiya Janata Party,7828.0,Result Declared
+171,HOWRAH MADHYA,ARUP ROY,All India Trinamool Congress,BIPLAB KUMAR MANDAL,Bharatiya Janata Party,16083.0,Result Declared
+170,HOWRAH UTTAR,UMESH RAI,Bharatiya Janata Party,GAUTAM CHOWDHURY,All India Trinamool Congress,11250.0,Result Declared
+257,INDUS,NIRMAL KUMAR DHARA,Bharatiya Janata Party,SHYAMALI ROY BAGDI,All India Trinamool Congress,900.0,Result Declared
+29,ISLAMPUR,AGARWAL KANAIA LAL,All India Trinamool Congress,CHITRAJIT ROY,Bharatiya Janata Party,40063.0,Result Declared
+36,ITAHAR,MOSARAF HUSSEN,All India Trinamool Congress,SABITA BARMAN,Bharatiya Janata Party,27878.0,Result Declared
+150,JADAVPUR,SARBORI MUKHERJEE,Bharatiya Janata Party,DEBABRATA MAJUMDAR (MALAY),All India Trinamool Congress,27716.0,Result Declared
+183,JAGATBALLAVPUR,ANUPAM GHOSH,Bharatiya Janata Party,SUBIR CHATTERJEE (TINKAI),All India Trinamool Congress,6671.0,Result Declared
+106,JAGATDAL,DR. RAJESH KUMAR,Bharatiya Janata Party,SOMENATH SHYAM ICHINI,All India Trinamool Congress,20909.0,Result Declared
+76,JALANGI,BABAR ALI,All India Trinamool Congress,IANUS ALI SARKAR,Communist Party of India (Marxist),21516.0,Result Declared
+17,JALPAIGURI,ANANTA DEB ADHIKARY,Bharatiya Janata Party,KRISHNA DAS,All India Trinamool Congress,68805.0,Result Declared
+262,JAMALPUR,ARUN HALDER,Bharatiya Janata Party,BHUTNATH MALIK,All India Trinamool Congress,11178.0,Result Declared
+279,JAMURIA,DR. BIJAN MUKHERJEE,Bharatiya Janata Party,HARERAM SINGH,All India Trinamool Congress,22514.0,Result Declared
+195,JANGIPARA,PROSENJIT BAG,Bharatiya Janata Party,SNEHASIS CHAKRABORTY,All India Trinamool Congress,862.0,Result Declared
+58,JANGIPUR,CHITTA MUKHERJEE,Bharatiya Janata Party,JAKIR HOSSAIN,All India Trinamool Congress,10542.0,Result Declared
+136,JAYNAGAR,BISWANATH DAS,All India Trinamool Congress,ALOKE HALDER,Bharatiya Janata Party,26350.0,Result Declared
+222,JHARGRAM,LAKSHMI KANTA SAU,Bharatiya Janata Party,MONGAL SAREN,All India Trinamool Congress,38147.0,Result Declared
+165,JORASANKO,VIJAY OJHA,Bharatiya Janata Party,VIJAY UPADHYAY,All India Trinamool Congress,5797.0,Result Declared
+241,JOYPUR,BISWAJIT MAHATO,Bharatiya Janata Party,ARJUN MAHATO,All India Trinamool Congress,22218.0,Result Declared
+131,KAKDWIP,DIPANKAR JANA,Bharatiya Janata Party,MANTURAM PAKHIRA,All India Trinamool Congress,4760.0,Result Declared
+11,KALCHINI,BISHAL LAMA,Bharatiya Janata Party,BIRENDRA BARA (ORAON),All India Trinamool Congress,37843.0,Result Declared
+34,KALIAGANJ,UTPAL BRAHMACHARO,Bharatiya Janata Party,NITAI BAISHYA,All India Trinamool Congress,76425.0,Result Declared
+80,KALIGANJ,ALIFA AHMED,All India Trinamool Congress,BAPAN GHOSH,Bharatiya Janata Party,10172.0,Result Declared
+22,KALIMPONG,BHARAT KUMAR CHETRI,Bharatiya Janata Party,RUDEN SADA LEPCHA,Bharatiya Gorkha Prajatantrik Morcha,21464.0,Result Declared
+264,KALNA,SIDDHARTHA MAJUMDAR,Bharatiya Janata Party,DEBO PRASAD BAG (POLTU),All India Trinamool Congress,28630.0,Result Declared
+92,KALYANI,ANUPAM BISWAS,Bharatiya Janata Party,DR. ATINDRA NATH MONDAL,All India Trinamool Congress,34792.0,Result Declared
+112,KAMARHATI,MADAN MITRA,All India Trinamool Congress,ARUP CHOUDHURY (PULAK),Bharatiya Janata Party,5646.0,Result Declared
+68,KANDI,GARGI DAS GHOSH,Bharatiya Janata Party,APURBA SARKAR (DAVID),All India Trinamool Congress,10335.0,Result Declared
+216,KANTHI DAKSHIN,ARUP KUMAR DAS,Bharatiya Janata Party,TARUN KUMAR JANA,All India Trinamool Congress,31472.0,Result Declared
+213,KANTHI UTTAR,SUMITA SINHA,Bharatiya Janata Party,DEBASIS BHUNYA,All India Trinamool Congress,20055.0,Result Declared
+32,KARANDIGHI,BIRAJ BISWAS,Bharatiya Janata Party,GOUTAM PAUL,All India Trinamool Congress,19869.0,Result Declared
+77,KARIMPUR,SAMARENDRANATH GHOSH,Bharatiya Janata Party,SOHAM CHAKRABORTY,All India Trinamool Congress,10185.0,Result Declared
+149,KASBA,AHMED JAVED KHAN,All India Trinamool Congress,BANERJEE SANDIP,Bharatiya Janata Party,20974.0,Result Declared
+244,KASHIPUR,KAMALA KANTA HANSDA,Bharatiya Janata Party,SOUMEN BELTHARIA,All India Trinamool Congress,21276.0,Result Declared
+168,KASHIPUR-BELGACHHIA,RITESH TIWARI,Bharatiya Janata Party,ATIN GHOSH,All India Trinamool Congress,1651.0,Result Declared
+256,KATULPUR,LAKSHMI KANTA MAJUMDAR,Bharatiya Janata Party,HARAKALI PROTIHER,All India Trinamool Congress,34367.0,Result Declared
+270,KATWA,KRISHNA GHOSH,Bharatiya Janata Party,RABINDRANATH CHATTERJEE,All India Trinamool Congress,35066.0,Result Declared
+223,KESHIARY,BHADRA HEMRAM,Bharatiya Janata Party,RAMJIBAN MANDI,All India Trinamool Congress,15887.0,Result Declared
+235,KESHPUR,SEULI SAHA,All India Trinamool Congress,SUVENDU SAMANTA,Bharatiya Janata Party,50105.0,Result Declared
+271,KETUGRAM,ANADI GHOSH,Bharatiya Janata Party,SEKH SAHONAWEZ,All India Trinamool Congress,27610.0,Result Declared
+202,KHANAKUL,SUSANTA GHOSH,Bharatiya Janata Party,PALASH KUMAR ROY,All India Trinamool Congress,34483.0,Result Declared
+259,KHANDAGHOSH,NABIN CHANDRA BAG,All India Trinamool Congress,GOUTAM DHARA,Bharatiya Janata Party,8284.0,Result Declared
+228,KHARAGPUR,DINEN ROY,All India Trinamool Congress,TAPAN BHUYA,Bharatiya Janata Party,2872.0,Result Declared
+224,KHARAGPUR SADAR,DILIP GHOSH,Bharatiya Janata Party,PRADIP SARKAR,All India Trinamool Congress,30506.0,Result Declared
+109,KHARDAHA,KALYAN CHAKRABORTI,Bharatiya Janata Party,DEVADEEP PUROHIT,All India Trinamool Congress,24486.0,Result Declared
+66,KHARGRAM,MITALI MAL,Bharatiya Janata Party,ASHIS MARJIT,All India Trinamool Congress,9333.0,Result Declared
+215,KHEJURI,SUBRATA PAIK,Bharatiya Janata Party,RABIN CHANDRA MANDAL,All India Trinamool Congress,32690.0,Result Declared
+158,KOLKATA PORT,FIRHAD HAKIM,All India Trinamool Congress,RAKESH SINGH,Bharatiya Janata Party,56080.0,Result Declared
+88,KRISHNAGANJ,SUKANTA BISWAS,Bharatiya Janata Party,SAMIR KUMAR PODDAR,All India Trinamool Congress,60899.0,Result Declared
+85,KRISHNANAGAR DAKSHIN,SADHAN GHOSH,Bharatiya Janata Party,UJJAL BISWAS,All India Trinamool Congress,27801.0,Result Declared
+83,KRISHNANAGAR UTTAR,TARAK NATH CHATTERJEE,Bharatiya Janata Party,SOMNATH DUTTA,All India Trinamool Congress,78361.0,Result Declared
+133,KULPI,BARNALI DHARA,All India Trinamool Congress,ABANI NASKAR,Bharatiya Janata Party,10383.0,Result Declared
+129,KULTALI,GANESH CHANDRA MONDAL,All India Trinamool Congress,MADHABI MAHALDER,Bharatiya Janata Party,59276.0,Result Declared
+282,KULTI,AJAY KUMAR PODDAR,Bharatiya Janata Party,ABHIJIT GHATAK,All India Trinamool Congress,26498.0,Result Declared
+38,KUMARGANJ,TORAF HOSSAIN MANDAL,All India Trinamool Congress,SUBHENDU SARKAR,Bharatiya Janata Party,6685.0,Result Declared
+10,KUMARGRAM,MANOJ KUMAR ORAON,Bharatiya Janata Party,RAJEEV TIRKEY,All India Trinamool Congress,52877.0,Result Declared
+24,KURSEONG,SONAM LAMA,Bharatiya Janata Party,AMAR LAMA,Bharatiya Gorkha Prajatantrik Morcha,17007.0,Result Declared
+37,KUSHMANDI,TAPAS CHANDRA ROY,Bharatiya Janata Party,REKHA ROY,All India Trinamool Congress,9063.0,Result Declared
+288,LABPUR,DEBASIS OJHA (HAKU DA),Bharatiya Janata Party,ABHIJIT SINHA (RANA),All India Trinamool Congress,3550.0,Result Declared
+61,LALGOLA,ABDUL AZIZ DOCTOR,All India Trinamool Congress,TOUHIDUR RAHAMAN SUMAN,Indian National Congress,18960.0,Result Declared
+14,MADARIHAT,LAXUMAN LIMBU,Bharatiya Janata Party,JAYPRAKASH TOPPO,All India Trinamool Congress,40910.0,Result Declared
+118,MADHYAMGRAM,RATHIN GHOSH,All India Trinamool Congress,ANINDYA BANERJEE,Bharatiya Janata Party,2399.0,Result Declared
+142,MAGRAHAT PASCHIM,MD. SAMIM AHAMED MOLLA,All India Trinamool Congress,GOURSUNDAR GHOSH,Bharatiya Janata Party,58503.0,Result Declared
+141,MAGRAHAT PURBA,SARMISTHA PURKAIT,All India Trinamool Congress,UTTAM KUMAR BANIK,Bharatiya Janata Party,31607.0,Result Declared
+155,MAHESHTALA,SUBHASIS DAS,All India Trinamool Congress,TAMANATH BHOWMICK,Bharatiya Janata Party,32913.0,Result Declared
+208,MAHISADAL,SUBHAS CHANDRA PANJA,Bharatiya Janata Party,TILAK KUMAR CHAKRABORTY,All India Trinamool Congress,26238.0,Result Declared
+20,MAL,SUKRA MUNDA,Bharatiya Janata Party,BULU CHIK BARAIK,All India Trinamool Congress,15492.0,Result Declared
+47,MALATIPUR,ABDUR RAHIM BOXI,All India Trinamool Congress,MAUSAM B NOOR,Indian National Congress,59747.0,Result Declared
+50,MALDAHA,GOPAL CHANDRA SAHA,Bharatiya Janata Party,LIPIKA BARMAN GHOSH,All India Trinamool Congress,50128.0,Result Declared
+243,MANBAZAR,MAYNA MURMU,Bharatiya Janata Party,SANDHYA RANI TUDU,All India Trinamool Congress,27283.0,Result Declared
+135,MANDIRBAZAR,JOYDEB HALDER S/O - KARTICK CHANDRA HALDER,All India Trinamool Congress,MALLIKA PAIK W/O - ASHOK PAIK,Bharatiya Janata Party,1995.0,Result Declared
+272,MANGALKOT,SHISHIR GHOSH,Bharatiya Janata Party,APURBA CHOWDHURY (ACHAL),All India Trinamool Congress,12723.0,Result Declared
+49,MANIKCHAK,GOUR CHANDRA MANDAL,Bharatiya Janata Party,KABITA MANDAL,All India Trinamool Congress,13938.0,Result Declared
+167,MANIKTALA,TAPAS ROY,Bharatiya Janata Party,SHRREYA PANDE,All India Trinamool Congress,15644.0,Result Declared
+2,MATHABHANGA,NISHITH PRAMANIK,Bharatiya Janata Party,DR. SABLU BARMAN,All India Trinamool Congress,57090.0,Result Declared
+25,MATIGARA-NAXALBARI,ANANDAMAY BARMAN,Bharatiya Janata Party,SHANKAR MALAKAR,All India Trinamool Congress,104265.0,Result Declared
+16,MAYNAGURI,DALIM CHANDRA ROY,Bharatiya Janata Party,RAMMOHAN RAY,All India Trinamool Congress,56503.0,Result Declared
+290,MAYURESWAR,DUDH KUMAR MONDAL,Bharatiya Janata Party,ABHIJIT ROY,All India Trinamool Congress,21002.0,Result Declared
+236,MEDINIPUR,SANKAR KUMAR GUCHHAIT,Bharatiya Janata Party,SUJOY HAZRA,All India Trinamool Congress,38747.0,Result Declared
+1,MEKLIGANJ,DADHIRAM RAY,Bharatiya Janata Party,ADHIKARY PARESH CHANDRA,All India Trinamool Congress,29584.0,Result Declared
+265,MEMARI,MANAB GUHA,Bharatiya Janata Party,RASH BIHARI HALDER,All India Trinamool Congress,7106.0,Result Declared
+157,METIABURUZ,ABDUL KHALEQUE MOLLA,All India Trinamool Congress,BIR BAHADUR SINGH,Bharatiya Janata Party,87879.0,Result Declared
+122,MINAKHAN,USHA RANI MONDAL,All India Trinamool Congress,RUDRENDRA PATRA,Bharatiya Janata Party,32292.0,Result Declared
+263,MONTESWAR,SAIKAT PANJA,Bharatiya Janata Party,CHOWDHURI SIDDIQULLAH,All India Trinamool Congress,14798.0,Result Declared
+52,MOTHABARI,ISLAM MD NAJRUL,All India Trinamool Congress,NIBARAN GHOSH,Bharatiya Janata Party,10496.0,Result Declared
+206,MOYNA,ASHOKE DINDA,Bharatiya Janata Party,CHANDAN MONDAL,All India Trinamool Congress,16241.0,Result Declared
+294,MURARAI,DR. MOSARRAF HOSSAIN,All India Trinamool Congress,SANJIBUR RAHAMAN (BAPPA),Indian National Congress,37705.0,Result Declared
+64,MURSHIDABAD,GOURI SANKAR GHOSH,Bharatiya Janata Party,SHAONI SINGHA ROY,All India Trinamool Congress,31521.0,Result Declared
+84,NABADWIP,SRUTISEKHAR GOSWAMI,Bharatiya Janata Party,PUNDARIKAKSHYA SAHA,All India Trinamool Congress,21444.0,Result Declared
+65,NABAGRAM,DILIP SAHA,Bharatiya Janata Party,PRONAB CHANDRA DAS,All India Trinamool Congress,5919.0,Result Declared
+21,NAGRAKATA,PUNA BHENGRA,Bharatiya Janata Party,SANJAY KUJUR,All India Trinamool Congress,25858.0,Result Declared
+104,NAIHATI,SUMITRO CHATTERJEE,Bharatiya Janata Party,SANAT DEY,All India Trinamool Congress,10430.0,Result Declared
+81,NAKASHIPARA,SANTANU DEY,Bharatiya Janata Party,KALLOL KHAN,All India Trinamool Congress,17327.0,Result Declared
+293,NALHATI,RAJENDRA PRASAD SINGH(RAJU SINGH),All India Trinamool Congress,ANIL KUMAR SINGH,Bharatiya Janata Party,13446.0,Result Declared
+207,NANDAKUMAR,KHANRA NIRMAL,Bharatiya Janata Party,SUKUMAR DE,All India Trinamool Congress,30603.0,Result Declared
+210,NANDIGRAM,ADHIKARI SUVENDU,Bharatiya Janata Party,PABITRA KAR,All India Trinamool Congress,9665.0,Result Declared
+287,NANOOR,BIDHAN CHANDRA MAJHI,All India Trinamool Congress,KHOKAN DAS,Bharatiya Janata Party,8122.0,Result Declared
+225,NARAYANGARH,GIRI RAMAPRASAD,Bharatiya Janata Party,PRATIBHA MAITI,All India Trinamool Congress,20367.0,Result Declared
+8,NATABARI,GIRIJA SHANKAR RAY,Bharatiya Janata Party,SAILENDRA NATH BARMA,All India Trinamool Congress,34613.0,Result Declared
+220,NAYAGRAM,AMIYA KISKU,Bharatiya Janata Party,DULAL MURMU,All India Trinamool Congress,6424.0,Result Declared
+107,NOAPARA,ARJUN SINGH,Bharatiya Janata Party,TRINANKUR BHATTACHARJEE,All India Trinamool Congress,17656.0,Result Declared
+74,NOWDA,HUMAYUN KABIR,Aam Janata Unnayan party,RANA MANDAL,Bharatiya Janata Party,27943.0,Result Declared
+254,ONDA,AMARNATH SHAKHA,Bharatiya Janata Party,SUBRATA DUTTA (GOPI),All India Trinamool Congress,31723.0,Result Declared
+79,PALASHIPARA,RUKBANUR RAHMAN,All India Trinamool Congress,ANIMA DUTTA,Bharatiya Janata Party,11454.0,Result Declared
+175,PANCHLA,GULSAN MULLICK,All India Trinamool Congress,RANJAN PAUL,Bharatiya Janata Party,38320.0,Result Declared
+275,PANDABESWAR,JITENDRA KUMAR TEWARI,Bharatiya Janata Party,NARENDRANATH CHAKRABORTY,All India Trinamool Congress,1398.0,Result Declared
+192,PANDUA,TUSAR KUMAR MAJUMDAR,Bharatiya Janata Party,SAMIR CHAKRABORTY,All India Trinamool Congress,5228.0,Result Declared
+111,PANIHATI,RATNA DEBNATH,Bharatiya Janata Party,TIRTHANKAR GHOSH,All India Trinamool Congress,28836.0,Result Declared
+205,PANSKURA PASCHIM,SINTU SENAPATI,Bharatiya Janata Party,SIRAJ KHAN,All India Trinamool Congress,32567.0,Result Declared
+204,PANSKURA PURBA,SUBRATA MAITY(RANA),Bharatiya Janata Party,ASHIM KUMAR MAJI,All India Trinamool Congress,17903.0,Result Declared
+245,PARA,NADIAR CHAND BOURI,Bharatiya Janata Party,MANIK CHANDRA BAURI,All India Trinamool Congress,33721.0,Result Declared
+212,PATASHPUR,TAPAN MAITY,Bharatiya Janata Party,PIJUS KANTI PANDA,All India Trinamool Congress,9051.0,Result Declared
+130,PATHARPRATIMA,SAMIR KUMAR JANA,All India Trinamool Congress,ASIT KUMAR HALDAR,Bharatiya Janata Party,4873.0,Result Declared
+27,PHANSIDEWA,DURGA MURMU,Bharatiya Janata Party,REENA TOPNO EKKA,All India Trinamool Congress,45263.0,Result Declared
+227,PINGLA,SWAGATA MANNA,Bharatiya Janata Party,AJIT MAITY,All India Trinamool Congress,18480.0,Result Declared
+268,PURBASTHALI DAKSHIN,PRAN KRISHNA TAPADAR,Bharatiya Janata Party,SWAPAN DEBNATH,All India Trinamool Congress,16662.0,Result Declared
+269,PURBASTHALI UTTAR,GOPAL CHATTOPADHYAY,Bharatiya Janata Party,VASUNDHARA GOSWAMI,All India Trinamool Congress,30226.0,Result Declared
+199,PURSURAH,BIMAN GHOSH,Bharatiya Janata Party,PARTHA HAZARI,All India Trinamool Congress,53453.0,Result Declared
+242,PURULIA,SUDIP KUMAR MUKHERJEE,Bharatiya Janata Party,SUJOY BANERJEE,All India Trinamool Congress,49253.0,Result Declared
+59,RAGHUNATHGANJ,AKHRUZZAMAN,All India Trinamool Congress,NASIR SAIKH,Indian National Congress,40555.0,Result Declared
+246,RAGHUNATHPUR,MAMONI BAURI,Bharatiya Janata Party,HAZARI BOURI,All India Trinamool Congress,44059.0,Result Declared
+134,RAIDIGHI,TAPAS MONDAL S/O-SHIBPRASAD MONDAL,All India Trinamool Congress,PALASH RANA,Bharatiya Janata Party,5957.0,Result Declared
+35,RAIGANJ,KOUSHIK CHOWDHURY,Bharatiya Janata Party,KRISHNA KALYANI,All India Trinamool Congress,58641.0,Result Declared
+261,RAINA,SUBHASH PATRA,Bharatiya Janata Party,MANDIRA DALUI,All India Trinamool Congress,834.0,Result Declared
+250,RAIPUR,KSHETRAMOHAN HANSDA,Bharatiya Janata Party,THAKURMANI SAREN,All India Trinamool Congress,28742.0,Result Declared
+117,RAJARHAT  GOPALPUR,TARUNJYOTI TEWARI,Bharatiya Janata Party,ADITI MUNSHI,All India Trinamool Congress,27757.0,Result Declared
+115,RAJARHAT NEW TOWN,TAPASH CHATTERJEE,All India Trinamool Congress,PIYUSH KANODIA,Bharatiya Janata Party,323.0,Result in Progress
+18,RAJGANJ,DINESH SARKAR,Bharatiya Janata Party,SWAPNA BARMAN,All India Trinamool Congress,21477.0,Result Declared
+217,RAMNAGAR,DR. CHANDRA SEKHAR MONDAL,Bharatiya Janata Party,AKHIL GIRI,All India Trinamool Congress,26939.0,Result Declared
+291,RAMPURHAT,DHRUBA SAHA,Bharatiya Janata Party,ASISH BANERJEE,All India Trinamool Congress,24233.0,Result Declared
+90,RANAGHAT DAKSHIN,ASHIM KUMAR BISWAS,Bharatiya Janata Party,SOUGATA KUMAR BURMAN,All India Trinamool Congress,64464.0,Result Declared
+87,RANAGHAT UTTAR PASCHIM,PARTHA SARATHI CHATTERJEE(BABU),Bharatiya Janata Party,TAPAS KUMAR GHOSH,All India Trinamool Congress,57551.0,Result Declared
+89,RANAGHAT UTTAR PURBA,ASHIM BISWAS,Bharatiya Janata Party,BARNALI DEY ROY,All India Trinamool Congress,51743.0,Result Declared
+249,RANIBANDH,KSHUDIRAM TUDU,Bharatiya Janata Party,TANUSHREE HANSDA,All India Trinamool Congress,52269.0,Result Declared
+278,RANIGANJ,PARTHA GHOSH,Bharatiya Janata Party,KALOBARAN MONDAL,All India Trinamool Congress,17786.0,Result Declared
+63,RANINAGAR,JULFIKAR ALI,Indian National Congress,ABDUL SOUMIK HOSSAIN,All India Trinamool Congress,2701.0,Result Declared
+160,RASHBEHARI,DASGUPTA SWAPAN,Bharatiya Janata Party,DEBASISH KUMAR (DEBA),All India Trinamool Congress,20865.0,Result Declared
+48,RATUA,SAMAR MUKHERJEE,All India Trinamool Congress,ABISHEK SINGHANIA,Bharatiya Janata Party,32562.0,Result Declared
+70,REJINAGAR,HUMAYUN KABIR,Aam Janata Unnayan party,BAPAN GHOSH,Bharatiya Janata Party,58876.0,Result Declared
+226,SABANG,AMAL KUMAR PANDA,Bharatiya Janata Party,MANAS RANJAN BHUNIA,All India Trinamool Congress,11136.0,Result Declared
+132,SAGAR,SUMANTA MANDAL,Bharatiya Janata Party,BANKIM CHANDRA HAZRA,All India Trinamool Congress,7881.0,Result Declared
+60,SAGARDIGHI,BAYRON BISWAS,All India Trinamool Congress,TAPAS KUMAR CHAKRABORTY,Bharatiya Janata Party,34260.0,Result Declared
+289,SAINTHIA,KRISHNA KANTA SAHA,Bharatiya Janata Party,NILABATI SAHA,All India Trinamool Congress,10306.0,Result Declared
+234,SALBONI,BIMAN MAHATA,Bharatiya Janata Party,SRIKANTA MAHATA,All India Trinamool Congress,15243.0,Result Declared
+247,SALTORA,CHANDANA BAURI,Bharatiya Janata Party,UTTAM BAURI,All India Trinamool Congress,32135.0,Result Declared
+56,SAMSERGANJ,MOHAMMED NOOR ALAM,All India Trinamool Congress,MD NAJME ALAM,Indian National Congress,7587.0,Result Declared
+123,SANDESHKHALI,SANAT SARDAR,Bharatiya Janata Party,JHARNA SARDAR,All India Trinamool Congress,17510.0,Result Declared
+174,SANKRAIL,PRIYA PAUL,All India Trinamool Congress,BARNALI DHALI NASKAR,Bharatiya Janata Party,16740.0,Result Declared
+86,SANTIPUR,SWAPAN KUMAR DAS,Bharatiya Janata Party,BRAJAKISHORE GOSWAMI,All India Trinamool Congress,45376.0,Result Declared
+193,SAPTAGRAM,SWARAJ GHOSH,Bharatiya Janata Party,BIDESH RANJAN BOSE,All India Trinamool Congress,23289.0,Result Declared
+145,SATGACHHIA,AGNISWAR NASKAR,Bharatiya Janata Party,SOMASHREE BETAL,All India Trinamool Congress,401.0,Result Declared
+172,SHIBPUR,RUDRANIL GHOSH,Bharatiya Janata Party,DR. RANA CHATTERJEE,All India Trinamool Congress,16058.0,Result Declared
+166,SHYAMPUKUR,PURNIMA CHAKRABORTY,Bharatiya Janata Party,SHASHI PANJA,All India Trinamool Congress,14633.0,Result Declared
+179,SHYAMPUR,DR. HIRANMOY CHATTOPADHYAYA (HIRAAN),Bharatiya Janata Party,NADEBASI JANA,All India Trinamool Congress,22260.0,Result Declared
+26,SILIGURI,SHANKAR GHOSH,Bharatiya Janata Party,GOUTAM DEB,All India Trinamool Congress,73192.0,Result Declared
+188,SINGUR,ARUP KUMAR DAS,Bharatiya Janata Party,BECHARAM MANNA,All India Trinamool Congress,21438.0,Result Declared
+6,SITAI,SANGITA ROY,All India Trinamool Congress,ASHUTOSH BARMA,Bharatiya Janata Party,2721.0,Result Declared
+5,SITALKUCHI,SABITRI BARMAN,Bharatiya Janata Party,HARIHAR DAS,All India Trinamool Congress,25278.0,Result Declared
+258,SONAMUKHI,DIBAKAR GHARAMI,Bharatiya Janata Party,KALLOL SAHA,All India Trinamool Congress,29410.0,Result Declared
+147,SONARPUR DAKSHIN,RUPA GANGULY,Bharatiya Janata Party,ARUNDHUTI MAITRA(LOVELY),All India Trinamool Congress,35782.0,Result Declared
+151,SONARPUR UTTAR,DEBASISH DHAR,Bharatiya Janata Party,FIRDOUSI BEGAM,All India Trinamool Congress,9807.0,Result Declared
+186,SREERAMPUR,BHASKAR BHATTACHARYA,Bharatiya Janata Party,TANMOY GHOSH,All India Trinamool Congress,8685.0,Result Declared
+53,SUJAPUR,SABINA YEASMIN,All India Trinamool Congress,ABDUL HANNAN,Indian National Congress,60287.0,Result Declared
+285,SURI,JAGANNATH CHATTOPADHYAY,Bharatiya Janata Party,UJJAL CHATTERJEE,All India Trinamool Congress,28686.0,Result Declared
+57,SUTI,EMANI BISWAS,All India Trinamool Congress,MAHABIR GHOSH,Bharatiya Janata Party,12357.0,Result Declared
+98,SWARUPNAGAR,BINA MONDAL,All India Trinamool Congress,TARAK SAHA,Bharatiya Janata Party,16017.0,Result Declared
+251,TALDANGRA,SOUVIK PATRA,Bharatiya Janata Party,FALGUNI SINGHABABU,All India Trinamool Congress,50073.0,Result Declared
+203,TAMLUK,HARE KRISHNA BERA,Bharatiya Janata Party,DIPENDRA NARAYAN ROY,All India Trinamool Congress,34729.0,Result Declared
+40,TAPAN,BUDHRAI TUDU,Bharatiya Janata Party,CHINTAMANI BIHA,All India Trinamool Congress,36987.0,Result Declared
+198,TARAKESWAR,SANTU PAN,Bharatiya Janata Party,RAMENDU SINHARAY,All India Trinamool Congress,30999.0,Result Declared
+78,TEHATTA,SUBRATA KABIRAJ,Bharatiya Janata Party,DILIP KUMAR PODDAR,All India Trinamool Congress,28253.0,Result Declared
+152,TOLLYGANJ,PAPIA ADHIKARY,Bharatiya Janata Party,AROOP BISWAS,All India Trinamool Congress,6013.0,Result Declared
+9,TUFANGANJ,MALATI RAVA ROY,Bharatiya Janata Party,SHIBSANKAR PAUL,All India Trinamool Congress,26457.0,Result Declared
+182,UDAYNARAYANPUR,SAMIR KUMAR PANJA,All India Trinamool Congress,PROBHAKAR PANDIT,Bharatiya Janata Party,12227.0,Result Declared
+178,ULUBERIA DAKSHIN,PULAK ROY,All India Trinamool Congress,SWAMI MANGALANANDA PURI,Bharatiya Janata Party,17187.0,Result Declared
+176,ULUBERIA PURBA,RITABRATA BANERJEE,All India Trinamool Congress,RUDRA PROSAD BANERJEE,Bharatiya Janata Party,11838.0,Result Declared
+177,ULUBERIA UTTAR,CHIRAN BERA,Bharatiya Janata Party,BIMAL KUMAR DAS,All India Trinamool Congress,4177.0,Result Declared
+185,UTTARPARA,DIPANJAN CHAKRABORTY,Bharatiya Janata Party,SIRSANYA BANDOPADHYAY,All India Trinamool Congress,10415.0,Result Declared

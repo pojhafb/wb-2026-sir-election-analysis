@@ -1,0 +1,294 @@
+const_no,const_name,winner_name,winner_party,runner_name,runner_party,margin,status,const_name_cw,bjp_votes,tmc_votes,total_votes,winner_is_bjp,winner_is_tmc
+12,ALIPURDUARS,PARITOSH DAS,Bharatiya Janata Party,SUMAN KANJILAL,All India Trinamool Congress,70420.0,Result Declared,ALIPURDUARS,143242,72822,232466,True,False
+102,AMDANGA,MOHAMMAD KASEM SIDDIQUE,All India Trinamool Congress,ARINDAM DEY,Bharatiya Janata Party,2995.0,Result Declared,AMDANGA,78675,81670,213502,False,True
+181,AMTA,AMIT SAMANTA,Bharatiya Janata Party,SUKANTA KUMAR PAUL,All India Trinamool Congress,4454.0,Result Declared,AMTA,104649,100195,237001,True,False
+200,ARAMBAG,BAG HEMANTA,Bharatiya Janata Party,BAG MITA,All India Trinamool Congress,28959.0,Result Declared,ARAMBAG,123000,94041,235875,True,False
+280,ASANSOL DAKSHIN,AGNIMITRA PAUL,Bharatiya Janata Party,TAPAS BANERJEE,All India Trinamool Congress,40839.0,Result Declared,ASANSOL DAKSHIN,119582,78743,215792,True,False
+281,ASANSOL UTTAR,KRISHNENDU MUKHERJEE,Bharatiya Janata Party,MOLOY GHATAK,All India Trinamool Congress,11615.0,Result Declared,ASANSOL UTTAR,104516,92901,210607,True,False
+101,ASHOKNAGAR,DR. SUMAY HIRA,Bharatiya Janata Party,NARAYAN GOSWAMI,All India Trinamool Congress,9408.0,Result Declared,ASHOKNAGAR,96807,87399,219757,True,False
+273,AUSGRAM,KALITA MAJI,Bharatiya Janata Party,SHYAMA PRASANNA LOHAR,All India Trinamool Congress,12535.0,Result Declared,AUSGRAM,107692,95157,225886,True,False
+99,BADURIA,BURHANUL MUKADDIM (LITON),All India Trinamool Congress,SUKRITI KUMAR SARKAR,Bharatiya Janata Party,40061.0,Result Declared,BADURIA,63273,103334,227365,False,True
+94,BAGDA,SOMA THAKUR,Bharatiya Janata Party,MADHUPARNA THAKUR,All India Trinamool Congress,34616.0,Result Declared,BAGDA,121307,86691,217223,True,False
+240,BAGHMUNDI,RAHIDAS MAHATO,Bharatiya Janata Party,SUSHANTA MAHATO,All India Trinamool Congress,40817.0,Result Declared,BAGHMUNDI,112663,71846,230137,True,False
+180,BAGNAN,ARUNAVA SEN,All India Trinamool Congress,PRAMANSHU RANA,Bharatiya Janata Party,11316.0,Result Declared,BAGNAN,93744,105060,218406,False,True
+72,BAHARAMPUR,SUBRATA MAITRA (KANCHAN),Bharatiya Janata Party,ADHIR RANJAN CHOWDHURY,Indian National Congress,17548.0,Result Declared,BAHARAMPUR,91088,49586,224268,True,False
+54,BAISNABNAGAR,RAJU KARMAKAR,Bharatiya Janata Party,CHANDANA SARKAR,All India Trinamool Congress,46881.0,Result Declared,BAISNABNAGAR,108692,61811,224839,True,False
+191,BALAGARH,SUMANA SARKAR,Bharatiya Janata Party,RANJAN DHARA,All India Trinamool Congress,41914.0,Result Declared,BALAGARH,125624,83710,226031,True,False
+239,BALARAMPUR,JALADHAR MAHATO,Bharatiya Janata Party,SHANTIRAM MAHATO,All India Trinamool Congress,35051.0,Result Declared,BALARAMPUR,118421,83370,219946,True,False
+169,BALLY,SANJAY KUMAR SINGH,Bharatiya Janata Party,KAILASH KUMAR MISHRA,All India Trinamool Congress,11997.0,Result Declared,BALLY,57639,45642,117838,True,False
+161,BALLYGUNGE,SOBHANDEB CHATTOPADHYAY,All India Trinamool Congress,SHATORUPA,Bharatiya Janata Party,61476.0,Result Declared,BALLYGUNGE,47005,108481,167384,False,True
+39,BALURGHAT,BIDYUT KUMAR ROY,Bharatiya Janata Party,ARPITA GHOSH,All India Trinamool Congress,47576.0,Result Declared,BALURGHAT,95697,48121,158296,True,False
+238,BANDWAN,LABSEN BASKEY,Bharatiya Janata Party,RAJIB LOCHAN SAREN,All India Trinamool Congress,29577.0,Result Declared,BANDWAN,134080,104503,266178,True,False
+96,BANGAON DAKSHIN,SWAPAN MAJUMDER,Bharatiya Janata Party,RITUPARNA ADDHYA,All India Trinamool Congress,37814.0,Result Declared,BANGAON DAKSHIN,119399,81585,212191,True,False
+95,BANGAON UTTAR,ASHOK KIRTANIA,Bharatiya Janata Party,BISWAJIT DAS,All India Trinamool Congress,40670.0,Result Declared,BANGAON UTTAR,119317,78647,211344,True,False
+252,BANKURA,NILADRI SEKHAR DANA,Bharatiya Janata Party,DR. ANUP MANDAL,All India Trinamool Congress,54177.0,Result Declared,BANKURA,136992,82815,239331,True,False
+283,BARABANI,ARIJIT ROY,Bharatiya Janata Party,BIDHAN UPADHYAY,All India Trinamool Congress,11722.0,Result Declared,BARABANI,91777,80055,185274,True,False
+113,BARANAGAR,SAJAL GHOSH,Bharatiya Janata Party,SAYANTIKA BANERJEE,All India Trinamool Congress,16956.0,Result Declared,BARANAGAR,81730,64774,169347,True,False
+119,BARASAT,SANKAR CHATTERJEE,Bharatiya Janata Party,SABYASACHI DUTTA,All India Trinamool Congress,34558.0,Result Declared,BARASAT,122171,87613,236603,True,False
+260,BARDHAMAN DAKSHIN,MOUMITA BISWAS MISRA,Bharatiya Janata Party,KHOKAN DAS,All India Trinamool Congress,30470.0,Result Declared,BARDHAMAN DAKSHIN,107754,77284,204823,True,False
+266,BARDHAMAN UTTAR,NISITH KUMAR MALIK,All India Trinamool Congress,SANJOY DAS,Bharatiya Janata Party,6460.0,Result Declared,BARDHAMAN UTTAR,106228,112688,247932,False,True
+253,BARJORA,BILLESWAR SINHA,Bharatiya Janata Party,GOUTAM MISHRA (SHYAM),All India Trinamool Congress,41310.0,Result Declared,BARJORA,125419,84109,235362,True,False
+108,BARRACKPUR,KAUSTUV BAGCHI,Bharatiya Janata Party,RAJ CHAKRABORTY (RAJU),All India Trinamool Congress,15822.0,Result Declared,BARRACKPUR,78466,62644,154918,True,False
+140,BARUIPUR PASCHIM,BIMAN BANERJEE,All India Trinamool Congress,BISWAJIT PAUL,Bharatiya Janata Party,17862.0,Result Declared,BARUIPUR PASCHIM,86919,104781,221031,False,True
+137,BARUIPUR PURBA,BIVAS SARDAR,All India Trinamool Congress,TUMPA SARDAR,Bharatiya Janata Party,31815.0,Result Declared,BARUIPUR PURBA,89172,120987,237319,False,True
+128,BASANTI,NILIMA MISTRY BISHAL,All India Trinamool Congress,BIKASH SARDAR,Bharatiya Janata Party,56181.0,Result Declared,BASANTI,71314,127495,231860,False,True
+124,BASIRHAT DAKSHIN,SURAJIT MITRA (BADAL),All India Trinamool Congress,DR. SOURYA BANERJEE,Bharatiya Janata Party,9544.0,Result Declared,BASIRHAT DAKSHIN,103421,112965,250535,False,True
+125,BASIRHAT UTTAR,MD. TAUSEFFUR RAHMAN,All India Trinamool Congress,MD. MUSA KAREMULLA,All India Secular Front,57270.0,Result Declared,BASIRHAT UTTAR,55211,115503,238563,False,True
+154,BEHALA PASCHIM,DR. INDRANIL KHAN,Bharatiya Janata Party,RATNA CHATTERJEE,All India Trinamool Congress,24699.0,Result Declared,BEHALA PASCHIM,113171,88472,238796,True,False
+153,BEHALA PURBA,SANKAR SIKDER,Bharatiya Janata Party,SUBHASISH CHAKRABORTY,All India Trinamool Congress,25137.0,Result Declared,BEHALA PURBA,115502,90365,234687,True,False
+71,BELDANGA,BHARAT KUMAR JHAWAR,Bharatiya Janata Party,RABIUL ALAM CHOWDHURY,All India Trinamool Congress,13208.0,Result Declared,BELDANGA,72872,59664,228591,True,False
+164,BELEGHATA,KUNAL KUMAR GHOSH,All India Trinamool Congress,PARTHA CHAUDHURY,Bharatiya Janata Party,28576.0,Result Declared,BELEGHATA,65181,93757,174108,False,True
+159,BHABANIPUR,ADHIKARI SUVENDU,Bharatiya Janata Party,MAMATA BANERJEE,All India Trinamool Congress,15105.0,Result Declared,BHABANIPUR,73917,58812,139413,True,False
+214,BHAGABANPUR,SANTANU PRAMANIK,Bharatiya Janata Party,MANAB KUMAR PARUA,All India Trinamool Congress,20878.0,Result Declared,BHAGABANPUR,130586,109708,247653,True,False
+62,BHAGAWANGOLA,REYAT HOSSAIN SARKAR,All India Trinamool Congress,MAHAMUDAL HASAN,Communist Party of India (Marxist),56407.0,Result Declared,BHAGAWANGOLA,23104,105997,218216,False,True
+148,BHANGAR,MD NAWSAD SIDDIQUE,All India Secular Front,SAOKAT MOLLA,All India Trinamool Congress,32088.0,Result Declared,BHANGAR,30177,94467,267394,False,False
+69,BHARATPUR,MUSTAFIJUR RAHAMAN (SUMAN),All India Trinamool Congress,ANAMIKA GHOSH,Bharatiya Janata Party,30753.0,Result Declared,BHARATPUR,60117,90870,214424,False,True
+267,BHATAR,KARFA SOUMEN,Bharatiya Janata Party,KONER SHANTANU,All India Trinamool Congress,6528.0,Result Declared,BHATAR,98820,92292,214694,True,False
+105,BHATPARA,PAWAN KUMAR SINGH,Bharatiya Janata Party,AMIT GUPTA,All India Trinamool Congress,22807.0,Result Declared,BHATPARA,61683,38876,106314,True,False
+116,BIDHANNAGAR,SHARADWAT MUKHERJEE,Bharatiya Janata Party,SUJIT BOSE,All India Trinamool Congress,37330.0,Result Declared,BIDHANNAGAR,97979,60649,177484,True,False
+103,BIJPUR,SUDIPTA DAS,Bharatiya Janata Party,SUBODH ADHIKARY,All India Trinamool Congress,13343.0,Result Declared,BIJPUR,71799,58456,144886,True,False
+237,BINPUR,DR. PRANAT TUDU,Bharatiya Janata Party,BIRBAHA HANSDA,All India Trinamool Congress,22977.0,Result Declared,BINPUR,107238,84261,208079,True,False
+146,BISHNUPUR,DILIP MONDAL,All India Trinamool Congress,ABHIJIT SARDAR,Bharatiya Janata Party,36925.0,Result Declared,BISHNUPUR,95722,132647,250592,False,True
+255,BISHNUPUR,SHUKLA CHATTERJEE,Bharatiya Janata Party,TANMAY GHOSH (BUMBA),All India Trinamool Congress,30605.0,Result Declared,BISHNUPUR,111082,80477,207478,True,False
+286,BOLPUR,CHANDRANATH SINHA,All India Trinamool Congress,DILIP GHOSH,Bharatiya Janata Party,13188.0,Result Declared,BOLPUR,101727,114915,246339,False,True
+156,BUDGE BUDGE,ASHOK KUMAR DEB,All India Trinamool Congress,DR TARUN KUMAR ADAK,Bharatiya Janata Party,46850.0,Result Declared,BUDGE BUDGE,80241,127091,218093,False,True
+67,BURWAN,SUKHEN KUMAR BAGDI,Bharatiya Janata Party,PROTIMA RAJAK,All India Trinamool Congress,22300.0,Result Declared,BURWAN,91661,69361,188917,True,False
+138,CANNING PASCHIM,PARESH RAM DAS,All India Trinamool Congress,Prasanta Bayen,Bharatiya Janata Party,40665.0,Result Declared,CANNING PASCHIM,79883,120548,230686,False,True
+139,CANNING PURBA,MD BAHARUL ISLAM,All India Trinamool Congress,ARABUL ISLAM,All India Secular Front,91954.0,Result Declared,CANNING PURBA,28593,148687,241664,False,True
+91,CHAKDAHA,BANKIM CHANDRA GHOSH,Bharatiya Janata Party,SUBHANKAR SINGHA (JISHU),All India Trinamool Congress,36945.0,Result Declared,CHAKDAHA,115433,78488,210720,True,False
+31,CHAKULIA,AZAD MINHAJUL ARFIN,All India Trinamool Congress,MANOJ KUMAR JAIN,Bharatiya Janata Party,28011.0,Result Declared,CHAKULIA,62266,90277,199125,False,True
+187,CHAMPDANI,DILIP SINGH,Bharatiya Janata Party,ARINDAM GUIN (BUBAI),All India Trinamool Congress,3026.0,Result Declared,CHAMPDANI,93704,90678,204415,True,False
+45,CHANCHAL,PRASUN BANERJEE,All India Trinamool Congress,RATAN DAS,Bharatiya Janata Party,63874.0,Result Declared,CHANCHAL,64140,128014,234409,False,True
+189,CHANDANNAGAR,Deepanjan Kumar Guha,Bharatiya Janata Party,Indranil Sen,All India Trinamool Congress,13441.0,Result Declared,CHANDANNAGAR,86273,72832,186909,True,False
+211,CHANDIPUR,PIJUSH KANTI DAS,Bharatiya Janata Party,UTTAM BARIK,All India Trinamool Congress,20270.0,Result Declared,CHANDIPUR,126047,105777,241957,True,False
+194,CHANDITALA,SWATI KHANDOKER,All India Trinamool Congress,DEBASISH MUKHERJEE,Bharatiya Janata Party,19663.0,Result Declared,CHANDITALA,87480,107143,227472,False,True
+232,CHANDRAKONA,SUKANTA DOLUI,Bharatiya Janata Party,DOLOI SURJYA KANTA,All India Trinamool Congress,33481.0,Result Declared,CHANDRAKONA,140517,107036,264690,True,False
+82,CHAPRA,JEBER SEKH,All India Trinamool Congress,SAIKAT SARKAR,Bharatiya Janata Party,30780.0,Result Declared,CHAPRA,66305,97085,210762,False,True
+248,CHHATNA,SATYANARAYAN MUKHOPADHYAY,Bharatiya Janata Party,SWAPAN KUMAR MONDAL,All India Trinamool Congress,47174.0,Result Declared,CHHATNA,125972,78798,221957,True,False
+28,CHOPRA,HAMIDUL RAHAMAN,All India Trinamool Congress,SANKAR ADHIKARI,Bharatiya Janata Party,69124.0,Result Declared,CHOPRA,51862,120986,211163,False,True
+162,CHOWRANGEE,BANDYOPADHYAY NAYNA,All India Trinamool Congress,SANTOSH KUMAR PATHAK,Bharatiya Janata Party,22002.0,Result Declared,CHOWRANGEE,40936,62938,110122,False,True
+190,CHUNCHURA,SUBIR NAG,Bharatiya Janata Party,DEBANGSHU BHATTACHARYA,All India Trinamool Congress,43435.0,Result Declared,CHUNCHURA,137704,94269,255204,True,False
+4,COOCHBEHAR DAKSHIN,RATHINDRA BOSE,Bharatiya Janata Party,AVIJIT DE BHOWMIK,All India Trinamool Congress,23284.0,Result Declared,COOCHBEHAR DAKSHIN,108482,85198,205413,True,False
+3,COOCHBEHAR UTTAR,SUKUMAR RAY,Bharatiya Janata Party,PARTHA PRATIM RAY,All India Trinamool Congress,70384.0,Result Declared,COOCHBEHAR UTTAR,155327,84943,254175,True,False
+19,DABGRAM-FULBARI,SIKHA CHATTERJEE,Bharatiya Janata Party,RANJAN SIL SHARMA,All India Trinamool Congress,97715.0,Result Declared,,166300,68585,251889,True,False
+219,DANTAN,AJIT KUMAR JANA,Bharatiya Janata Party,MANIK MAITI,All India Trinamool Congress,10376.0,Result Declared,DANTAN,110259,99883,218374,True,False
+23,DARJEELING,NOMAN RAI,Bharatiya Janata Party,BIJOY KUMAR RAI,Bharatiya Gorkha Prajatantrik Morcha,6057.0,Result Declared,DARJEELING,62076,0,173807,True,False
+230,DASPUR,TAPAN KUMAR DUTTA,Bharatiya Janata Party,ASHIS HUDAIT,All India Trinamool Congress,32134.0,Result Declared,DASPUR,133071,100937,252047,True,False
+229,DEBRA,SUBHASHIS OM,Bharatiya Janata Party,RAJIB BANERJEE,All India Trinamool Congress,28801.0,Result Declared,DEBRA,114463,85662,217323,True,False
+120,DEGANGA,ANISUR RAHAMAN BIDESH,All India Trinamool Congress,MD MOFIDUL HOQUE SAHAJI MINTU,All India Secular Front,17818.0,Result Declared,DEGANGA,41726,101114,233473,False,True
+197,DHANEKHALI,ASIMA PATRA,All India Trinamool Congress,BARNALI DAS,Bharatiya Janata Party,13057.0,Result Declared,DHANEKHALI,110405,123462,247691,False,True
+15,DHUPGURI,NARESH ROY,Bharatiya Janata Party,NIRMAL CHANDRA ROY,All India Trinamool Congress,38550.0,Result Declared,DHUPGURI,134798,96248,248496,True,False
+143,DIAMOND HARBOUR,PANNA LAL HALDER,All India Trinamool Congress,DIPAK KUMAR HALDER,Bharatiya Janata Party,31266.0,Result Declared,DIAMOND HARBOUR,88054,119320,232238,False,True
+7,DINHATA,AJAY RAY,Bharatiya Janata Party,UDAYAN GUHA,All India Trinamool Congress,17447.0,Result Declared,DINHATA,138255,120808,267925,True,False
+184,DOMJUR,TAPAS MAITY,All India Trinamool Congress,GOBINDA HAZRA,Bharatiya Janata Party,42177.0,Result Declared,DOMJUR,91859,134036,254187,False,True
+75,DOMKAL,MD. MOSTAFIJUR RAHAMAN,Communist Party of India (Marxist),HUMAYUN KABIR,All India Trinamool Congress,16296.0,Result Declared,DOMKAL,13180,91586,257790,False,False
+284,DUBRAJPUR,ANUP KUMAR SAHA,Bharatiya Janata Party,NARESH CHANDRA BAURI,All India Trinamool Congress,27647.0,Result Declared,DUBRAJPUR,117437,89790,220193,True,False
+114,DUM DUM,ARIJIT BAKSHI,Bharatiya Janata Party,BRATYABRATA BASU,All India Trinamool Congress,25273.0,Result Declared,DUM DUM,99181,73908,198098,True,False
+110,DUM DUM UTTAR,SOURAV SIKDAR,Bharatiya Janata Party,CHANDRIMA BHATTACHARYA,All India Trinamool Congress,26404.0,Result Declared,DUM DUM UTTAR,103284,76880,223349,True,False
+277,DURGAPUR PASCHIM,LAKSHMAN CHANDRA GHORUI,Bharatiya Janata Party,KABI DUTTA,All India Trinamool Congress,37598.0,Result Declared,DURGAPUR PASCHIM,114729,77131,216774,True,False
+276,DURGAPUR PURBA,CHANDRA SEKHAR BANERJEE,Bharatiya Janata Party,PRADIP MAZUMDAR,All India Trinamool Congress,30934.0,Result Declared,DURGAPUR PURBA,108888,77954,214802,True,False
+218,EGRA,ADHIKARI DIBYENDU,Bharatiya Janata Party,TARUN KUMAR MAITY,All India Trinamool Congress,25692.0,Result Declared,EGRA,142670,116978,269373,True,False
+51,ENGLISH BAZAR,AMLAN BHADURI (BURO),Bharatiya Janata Party,ASIS KUNDU (PATA),All India Trinamool Congress,93784.0,Result Declared,ENGLISH BAZAR,154096,60312,234560,True,False
+163,ENTALLY,SANDIPAN SAHA,All India Trinamool Congress,DR. PRIYANKA TIBREWAL,Bharatiya Janata Party,34006.0,Result Declared,ENTALLY,60421,94427,165207,False,True
+13,FALAKATA,DIPAK BARMAN,Bharatiya Janata Party,SUBHASH CHANDRA ROY,All India Trinamool Congress,45999.0,Result Declared,FALAKATA,134370,88371,235953,True,False
+55,FARAKKA,MOTAB SHAIKH,Indian National Congress,SUNIL CHOWDHURI,Bharatiya Janata Party,8193.0,Result Declared,FARAKKA,54857,47256,174841,False,False
+97,GAIGHATA,SUBRATA THAKUR,Bharatiya Janata Party,NAROTTAM BISWAS,All India Trinamool Congress,47683.0,Result Declared,GAIGHATA,121322,73639,209201,True,False
+274,GALSI,RAJU PATRA,Bharatiya Janata Party,ALOK KUMAR MAJHI,All India Trinamool Congress,10494.0,Result Declared,GALSI,110640,100146,232345,True,False
+41,GANGARAMPUR,SATYENDRA NATH ROY,Bharatiya Janata Party,Goutam Das,All India Trinamool Congress,28339.0,Result Declared,GANGARAMPUR,105083,76744,192823,True,False
+233,GARBETA,PRADIP LODHA,Bharatiya Janata Party,UTTARA SINGHA (HAZRA),All India Trinamool Congress,26225.0,Result Declared,GARBETA,113752,87527,222049,True,False
+44,GAZOLE,CHINMOY DEB BARMAN,Bharatiya Janata Party,PRASENJIT DAS,All India Trinamool Congress,38192.0,Result Declared,GAZOLE,131541,93349,243885,True,False
+231,GHATAL,SITAL KAPAT,Bharatiya Janata Party,SHYAMALI SARDAR,All India Trinamool Congress,37657.0,Result Declared,GHATAL,131550,93893,242025,True,False
+30,GOALPOKHAR,MD GHULAM RABBANI,All India Trinamool Congress,SARAJIT BISWAS,Bharatiya Janata Party,83790.0,Result Declared,GOALPOKHAR,38315,122105,183176,False,True
+201,GOGHAT,PRASANTA DIGAR,Bharatiya Janata Party,DR. NIRMAL MAJI,All India Trinamool Congress,49582.0,Result Declared,GOGHAT,134498,84916,234321,True,False
+221,GOPIBALLAVPUR,RAJESH MAHATA,Bharatiya Janata Party,AJIT MAHATA,All India Trinamool Congress,26675.0,Result Declared,GOPIBALLAVPUR,114683,88008,213383,True,False
+127,GOSABA,BIKARNA NASKAR,Bharatiya Janata Party,SUBRATA MONDAL,All India Trinamool Congress,16100.0,Result Declared,GOSABA,108492,92392,211328,True,False
+43,HABIBPUR,JOYEL MURMU,Bharatiya Janata Party,AMAL KISKU,All India Trinamool Congress,78188.0,Result Declared,HABIBPUR,142062,63874,227613,True,False
+100,HABRA,DEBDAS MONDAL,Bharatiya Janata Party,JYOTI PRIYA MALLICK,All India Trinamool Congress,31462.0,Result Declared,HABRA,104645,73183,198737,True,False
+209,HALDIA,PRADIP KUMAR BIJALI,Bharatiya Janata Party,TAPASI MONDAL,All India Trinamool Congress,49062.0,Result Declared,HALDIA,132183,83121,239446,True,False
+292,HANSAN,FAYEZUL HAQUE (KAJAL SK),All India Trinamool Congress,NIKHIL BANERJEE,Bharatiya Janata Party,28298.0,Result Declared,HANSAN,74925,103223,226555,False,True
+73,HARIHARPARA,NIAMOT SHEIKH,All India Trinamool Congress,BIJOY SEKH,Aam Janata Unnayan party,12665.0,Result Declared,HARIHARPARA,32057,80338,235296,False,True
+93,HARINGHATA,ASIM KUMAR SARKAR,Bharatiya Janata Party,DR. RAJIB BISWAS.,All India Trinamool Congress,22055.0,Result Declared,HARINGHATA,107900,85845,212756,True,False
+196,HARIPAL,MADHUMITA GHOSH,Bharatiya Janata Party,KARABI MANNA,All India Trinamool Congress,3488.0,Result Declared,HARIPAL,113332,109844,245994,True,False
+42,HARIRAMPUR,BIPLAB MITRA,All India Trinamool Congress,DEBABRATA MAJUMDER,Bharatiya Janata Party,1986.0,Result Declared,HARIRAMPUR,91112,93098,204074,False,True
+46,HARISCHANDRAPUR,MD. MATIBUR RAHAMAN,All India Trinamool Congress,RATAN DAS,Bharatiya Janata Party,48271.0,Result Declared,HARISCHANDRAPUR,64833,113104,227099,False,True
+121,HAROA,ABDUL MATIN MUHAMMAD,All India Trinamool Congress,PIYARUL ISLAM,All India Secular Front,49341.0,Result Declared,HAROA,41144,117591,237469,False,True
+33,HEMTABAD,HARIPADA BARMAN,Bharatiya Janata Party,SATYAJIT BARMAN,All India Trinamool Congress,12361.0,Result Declared,HEMTABAD,115529,103168,239372,True,False
+126,HINGALGANJ,REKHA PATRA,Bharatiya Janata Party,ANANDA SARKAR,All India Trinamool Congress,5421.0,Result Declared,HINGALGANJ,100207,94786,207071,True,False
+173,HOWRAH DAKSHIN,NANDITA CHOWDHURY,All India Trinamool Congress,SHYAMAL KUMAR HATI,Bharatiya Janata Party,7828.0,Result Declared,HOWRAH DAKSHIN,92712,100540,222054,False,True
+171,HOWRAH MADHYA,ARUP ROY,All India Trinamool Congress,BIPLAB KUMAR MANDAL,Bharatiya Janata Party,16083.0,Result Declared,HOWRAH MADHYA,79865,95948,193459,False,True
+170,HOWRAH UTTAR,UMESH RAI,Bharatiya Janata Party,GAUTAM CHOWDHURY,All India Trinamool Congress,11250.0,Result Declared,HOWRAH UTTAR,67539,56289,133063,True,False
+257,INDUS,NIRMAL KUMAR DHARA,Bharatiya Janata Party,SHYAMALI ROY BAGDI,All India Trinamool Congress,900.0,Result Declared,INDUS,108733,107833,232394,True,False
+29,ISLAMPUR,AGARWAL KANAIA LAL,All India Trinamool Congress,CHITRAJIT ROY,Bharatiya Janata Party,40063.0,Result Declared,ISLAMPUR,68054,108117,185961,False,True
+36,ITAHAR,MOSARAF HUSSEN,All India Trinamool Congress,SABITA BARMAN,Bharatiya Janata Party,27878.0,Result Declared,ITAHAR,70294,98172,204159,False,True
+150,JADAVPUR,SARBORI MUKHERJEE,Bharatiya Janata Party,DEBABRATA MAJUMDAR (MALAY),All India Trinamool Congress,27716.0,Result Declared,JADAVPUR,106199,78483,231075,True,False
+183,JAGATBALLAVPUR,ANUPAM GHOSH,Bharatiya Janata Party,SUBIR CHATTERJEE (TINKAI),All India Trinamool Congress,6671.0,Result Declared,JAGATBALLAVPUR,115608,108937,252515,True,False
+106,JAGATDAL,DR. RAJESH KUMAR,Bharatiya Janata Party,SOMENATH SHYAM ICHINI,All India Trinamool Congress,20909.0,Result Declared,JAGATDAL,94351,73442,183193,True,False
+76,JALANGI,BABAR ALI,All India Trinamool Congress,IANUS ALI SARKAR,Communist Party of India (Marxist),21516.0,Result Declared,JALANGI,51693,88684,253306,False,True
+17,JALPAIGURI,ANANTA DEB ADHIKARY,Bharatiya Janata Party,KRISHNA DAS,All India Trinamool Congress,68805.0,Result Declared,JALPAIGURI,142987,74182,237856,True,False
+262,JAMALPUR,ARUN HALDER,Bharatiya Janata Party,BHUTNATH MALIK,All India Trinamool Congress,11178.0,Result Declared,JAMALPUR,99936,88758,214774,True,False
+279,JAMURIA,DR. BIJAN MUKHERJEE,Bharatiya Janata Party,HARERAM SINGH,All India Trinamool Congress,22514.0,Result Declared,JAMURIA,90150,67636,181594,True,False
+195,JANGIPARA,PROSENJIT BAG,Bharatiya Janata Party,SNEHASIS CHAKRABORTY,All India Trinamool Congress,862.0,Result Declared,JANGIPARA,102409,101547,232291,True,False
+58,JANGIPUR,CHITTA MUKHERJEE,Bharatiya Janata Party,JAKIR HOSSAIN,All India Trinamool Congress,10542.0,Result Declared,JANGIPUR,91201,80659,212606,True,False
+136,JAYNAGAR,BISWANATH DAS,All India Trinamool Congress,ALOKE HALDER,Bharatiya Janata Party,26350.0,Result Declared,JAYNAGAR,81844,108194,219107,False,True
+222,JHARGRAM,LAKSHMI KANTA SAU,Bharatiya Janata Party,MONGAL SAREN,All India Trinamool Congress,38147.0,Result Declared,JHARGRAM,120877,82730,220940,True,False
+165,JORASANKO,VIJAY OJHA,Bharatiya Janata Party,VIJAY UPADHYAY,All India Trinamool Congress,5797.0,Result Declared,JORASANKO,52868,47071,106847,True,False
+241,JOYPUR,BISWAJIT MAHATO,Bharatiya Janata Party,ARJUN MAHATO,All India Trinamool Congress,22218.0,Result Declared,JOYPUR,104668,82450,233203,True,False
+131,KAKDWIP,DIPANKAR JANA,Bharatiya Janata Party,MANTURAM PAKHIRA,All India Trinamool Congress,4760.0,Result Declared,KAKDWIP,109373,104613,231303,True,False
+11,KALCHINI,BISHAL LAMA,Bharatiya Janata Party,BIRENDRA BARA (ORAON),All India Trinamool Congress,37843.0,Result Declared,KALCHINI,114759,76916,202607,True,False
+34,KALIAGANJ,UTPAL BRAHMACHARO,Bharatiya Janata Party,NITAI BAISHYA,All India Trinamool Congress,76425.0,Result Declared,KALIAGANJ,158349,81924,258225,True,False
+80,KALIGANJ,ALIFA AHMED,All India Trinamool Congress,BAPAN GHOSH,Bharatiya Janata Party,10172.0,Result Declared,KALIGANJ,79120,89292,219023,False,True
+22,KALIMPONG,BHARAT KUMAR CHETRI,Bharatiya Janata Party,RUDEN SADA LEPCHA,Bharatiya Gorkha Prajatantrik Morcha,21464.0,Result Declared,KALIMPONG,84290,0,169477,True,False
+264,KALNA,SIDDHARTHA MAJUMDAR,Bharatiya Janata Party,DEBO PRASAD BAG (POLTU),All India Trinamool Congress,28630.0,Result Declared,KALNA,110790,82160,213233,True,False
+92,KALYANI,ANUPAM BISWAS,Bharatiya Janata Party,DR. ATINDRA NATH MONDAL,All India Trinamool Congress,34792.0,Result Declared,KALYANI,114469,79677,215506,True,False
+112,KAMARHATI,MADAN MITRA,All India Trinamool Congress,ARUP CHOUDHURY (PULAK),Bharatiya Janata Party,5646.0,Result Declared,KAMARHATI,59171,64817,148272,False,True
+68,KANDI,GARGI DAS GHOSH,Bharatiya Janata Party,APURBA SARKAR (DAVID),All India Trinamool Congress,10335.0,Result Declared,KANDI,73355,63020,199460,True,False
+216,KANTHI DAKSHIN,ARUP KUMAR DAS,Bharatiya Janata Party,TARUN KUMAR JANA,All India Trinamool Congress,31472.0,Result Declared,KANTHI DAKSHIN,118219,86747,212835,True,False
+213,KANTHI UTTAR,SUMITA SINHA,Bharatiya Janata Party,DEBASIS BHUNYA,All India Trinamool Congress,20055.0,Result Declared,KANTHI UTTAR,130088,110033,249421,True,False
+32,KARANDIGHI,BIRAJ BISWAS,Bharatiya Janata Party,GOUTAM PAUL,All India Trinamool Congress,19869.0,Result Declared,KARANDIGHI,96260,76391,219973,True,False
+77,KARIMPUR,SAMARENDRANATH GHOSH,Bharatiya Janata Party,SOHAM CHAKRABORTY,All India Trinamool Congress,10185.0,Result Declared,KARIMPUR,105234,95049,240916,True,False
+149,KASBA,AHMED JAVED KHAN,All India Trinamool Congress,BANERJEE SANDIP,Bharatiya Janata Party,20974.0,Result Declared,KASBA,96919,117893,241206,False,True
+244,KASHIPUR,KAMALA KANTA HANSDA,Bharatiya Janata Party,SOUMEN BELTHARIA,All India Trinamool Congress,21276.0,Result Declared,KASHIPUR,106571,85295,211974,True,False
+168,KASHIPUR-BELGACHHIA,RITESH TIWARI,Bharatiya Janata Party,ATIN GHOSH,All India Trinamool Congress,1651.0,Result Declared,,68368,66717,150542,True,False
+256,KATULPUR,LAKSHMI KANTA MAJUMDAR,Bharatiya Janata Party,HARAKALI PROTIHER,All India Trinamool Congress,34367.0,Result Declared,KATULPUR,126241,91874,240253,True,False
+270,KATWA,KRISHNA GHOSH,Bharatiya Janata Party,RABINDRANATH CHATTERJEE,All India Trinamool Congress,35066.0,Result Declared,KATWA,122020,86954,239536,True,False
+223,KESHIARY,BHADRA HEMRAM,Bharatiya Janata Party,RAMJIBAN MANDI,All India Trinamool Congress,15887.0,Result Declared,KESHIARY,113713,97826,223842,True,False
+235,KESHPUR,SEULI SAHA,All India Trinamool Congress,SUVENDU SAMANTA,Bharatiya Janata Party,50105.0,Result Declared,KESHPUR,93018,143123,253963,False,True
+271,KETUGRAM,ANADI GHOSH,Bharatiya Janata Party,SEKH SAHONAWEZ,All India Trinamool Congress,27610.0,Result Declared,KETUGRAM,111104,83494,219183,True,False
+202,KHANAKUL,SUSANTA GHOSH,Bharatiya Janata Party,PALASH KUMAR ROY,All India Trinamool Congress,34483.0,Result Declared,KHANAKUL,126729,92246,237135,True,False
+259,KHANDAGHOSH,NABIN CHANDRA BAG,All India Trinamool Congress,GOUTAM DHARA,Bharatiya Janata Party,8284.0,Result Declared,KHANDAGHOSH,95899,104183,223246,False,True
+228,KHARAGPUR,DINEN ROY,All India Trinamool Congress,TAPAN BHUYA,Bharatiya Janata Party,2872.0,Result Declared,KHARAGPUR,95448,98320,208560,False,True
+224,KHARAGPUR SADAR,DILIP GHOSH,Bharatiya Janata Party,PRADIP SARKAR,All India Trinamool Congress,30506.0,Result Declared,KHARAGPUR SADAR,89885,59379,161661,True,False
+109,KHARDAHA,KALYAN CHAKRABORTI,Bharatiya Janata Party,DEVADEEP PUROHIT,All India Trinamool Congress,24486.0,Result Declared,KHARDAHA,97752,73266,196505,True,False
+66,KHARGRAM,MITALI MAL,Bharatiya Janata Party,ASHIS MARJIT,All India Trinamool Congress,9333.0,Result Declared,KHARGRAM,77748,68415,204477,True,False
+215,KHEJURI,SUBRATA PAIK,Bharatiya Janata Party,RABIN CHANDRA MANDAL,All India Trinamool Congress,32690.0,Result Declared,KHEJURI,129875,97185,236328,True,False
+158,KOLKATA PORT,FIRHAD HAKIM,All India Trinamool Congress,RAKESH SINGH,Bharatiya Janata Party,56080.0,Result Declared,KOLKATA PORT,45146,101226,154702,False,True
+88,KRISHNAGANJ,SUKANTA BISWAS,Bharatiya Janata Party,SAMIR KUMAR PODDAR,All India Trinamool Congress,60899.0,Result Declared,KRISHNAGANJ,139838,78939,232467,True,False
+85,KRISHNANAGAR DAKSHIN,SADHAN GHOSH,Bharatiya Janata Party,UJJAL BISWAS,All India Trinamool Congress,27801.0,Result Declared,KRISHNANAGAR DAKSHIN,102862,75061,197084,True,False
+83,KRISHNANAGAR UTTAR,TARAK NATH CHATTERJEE,Bharatiya Janata Party,SOMNATH DUTTA,All India Trinamool Congress,78361.0,Result Declared,KRISHNANAGAR UTTAR,133211,54850,202057,True,False
+133,KULPI,BARNALI DHARA,All India Trinamool Congress,ABANI NASKAR,Bharatiya Janata Party,10383.0,Result Declared,KULPI,80883,91266,207706,False,True
+129,KULTALI,GANESH CHANDRA MONDAL,All India Trinamool Congress,MADHABI MAHALDER,Bharatiya Janata Party,59276.0,Result Declared,KULTALI,87159,146435,253551,False,True
+282,KULTI,AJAY KUMAR PODDAR,Bharatiya Janata Party,ABHIJIT GHATAK,All India Trinamool Congress,26498.0,Result Declared,KULTI,103570,77072,190239,True,False
+38,KUMARGANJ,TORAF HOSSAIN MANDAL,All India Trinamool Congress,SUBHENDU SARKAR,Bharatiya Janata Party,6685.0,Result Declared,KUMARGANJ,76106,82791,173869,False,True
+10,KUMARGRAM,MANOJ KUMAR ORAON,Bharatiya Janata Party,RAJEEV TIRKEY,All India Trinamool Congress,52877.0,Result Declared,KUMARGRAM,143044,90167,246827,True,False
+24,KURSEONG,SONAM LAMA,Bharatiya Janata Party,AMAR LAMA,Bharatiya Gorkha Prajatantrik Morcha,17007.0,Result Declared,KURSEONG,74878,0,181833,True,False
+37,KUSHMANDI,TAPAS CHANDRA ROY,Bharatiya Janata Party,REKHA ROY,All India Trinamool Congress,9063.0,Result Declared,KUSHMANDI,97437,88374,199526,True,False
+288,LABPUR,DEBASIS OJHA (HAKU DA),Bharatiya Janata Party,ABHIJIT SINHA (RANA),All India Trinamool Congress,3550.0,Result Declared,LABPUR,106402,102852,223002,True,False
+61,LALGOLA,ABDUL AZIZ DOCTOR,All India Trinamool Congress,TOUHIDUR RAHAMAN SUMAN,Indian National Congress,18960.0,Result Declared,LALGOLA,35496,67954,180167,False,True
+14,MADARIHAT,LAXUMAN LIMBU,Bharatiya Janata Party,JAYPRAKASH TOPPO,All India Trinamool Congress,40910.0,Result Declared,MADARIHAT,102488,61578,176753,True,False
+118,MADHYAMGRAM,RATHIN GHOSH,All India Trinamool Congress,ANINDYA BANERJEE,Bharatiya Janata Party,2399.0,Result Declared,MADHYAMGRAM,93596,95995,232916,False,True
+142,MAGRAHAT PASCHIM,MD. SAMIM AHAMED MOLLA,All India Trinamool Congress,GOURSUNDAR GHOSH,Bharatiya Janata Party,58503.0,Result Declared,MAGRAHAT PASCHIM,55331,113834,205362,False,True
+141,MAGRAHAT PURBA,SARMISTHA PURKAIT,All India Trinamool Congress,UTTAM KUMAR BANIK,Bharatiya Janata Party,31607.0,Result Declared,MAGRAHAT PURBA,76805,108412,222178,False,True
+155,MAHESHTALA,SUBHASIS DAS,All India Trinamool Congress,TAMANATH BHOWMICK,Bharatiya Janata Party,32913.0,Result Declared,MAHESHTALA,83898,116811,229791,False,True
+208,MAHISADAL,SUBHAS CHANDRA PANJA,Bharatiya Janata Party,TILAK KUMAR CHAKRABORTY,All India Trinamool Congress,26238.0,Result Declared,MAHISADAL,121584,95346,238188,True,False
+20,MAL,SUKRA MUNDA,Bharatiya Janata Party,BULU CHIK BARAIK,All India Trinamool Congress,15492.0,Result Declared,MAL,112095,96603,224453,True,False
+47,MALATIPUR,ABDUR RAHIM BOXI,All India Trinamool Congress,MAUSAM B NOOR,Indian National Congress,59747.0,Result Declared,MALATIPUR,43346,104123,202035,False,True
+50,MALDAHA,GOPAL CHANDRA SAHA,Bharatiya Janata Party,LIPIKA BARMAN GHOSH,All India Trinamool Congress,50128.0,Result Declared,MALDAHA,123656,73528,220797,True,False
+243,MANBAZAR,MAYNA MURMU,Bharatiya Janata Party,SANDHYA RANI TUDU,All India Trinamool Congress,27283.0,Result Declared,MANBAZAR,120487,93204,236467,True,False
+135,MANDIRBAZAR,JOYDEB HALDER S/O - KARTICK CHANDRA HALDER,All India Trinamool Congress,MALLIKA PAIK W/O - ASHOK PAIK,Bharatiya Janata Party,1995.0,Result Declared,MANDIRBAZAR,91691,93686,213229,False,True
+272,MANGALKOT,SHISHIR GHOSH,Bharatiya Janata Party,APURBA CHOWDHURY (ACHAL),All India Trinamool Congress,12723.0,Result Declared,MANGALKOT,104020,91297,219247,True,False
+49,MANIKCHAK,GOUR CHANDRA MANDAL,Bharatiya Janata Party,KABITA MANDAL,All India Trinamool Congress,13938.0,Result Declared,MANIKCHAK,110118,96180,225363,True,False
+167,MANIKTALA,TAPAS ROY,Bharatiya Janata Party,SHRREYA PANDE,All India Trinamool Congress,15644.0,Result Declared,MANIKTALA,76370,60726,150722,True,False
+2,MATHABHANGA,NISHITH PRAMANIK,Bharatiya Janata Party,DR. SABLU BARMAN,All India Trinamool Congress,57090.0,Result Declared,MATHABHANGA,143340,86250,241845,True,False
+25,MATIGARA-NAXALBARI,ANANDAMAY BARMAN,Bharatiya Janata Party,SHANKAR MALAKAR,All India Trinamool Congress,104265.0,Result Declared,,166905,62640,250985,True,False
+16,MAYNAGURI,DALIM CHANDRA ROY,Bharatiya Janata Party,RAMMOHAN RAY,All India Trinamool Congress,56503.0,Result Declared,MAYNAGURI,147403,90900,251447,True,False
+290,MAYURESWAR,DUDH KUMAR MONDAL,Bharatiya Janata Party,ABHIJIT ROY,All India Trinamool Congress,21002.0,Result Declared,MAYURESWAR,107056,86054,213473,True,False
+236,MEDINIPUR,SANKAR KUMAR GUCHHAIT,Bharatiya Janata Party,SUJOY HAZRA,All India Trinamool Congress,38747.0,Result Declared,MEDINIPUR,133041,94294,244086,True,False
+1,MEKLIGANJ,DADHIRAM RAY,Bharatiya Janata Party,ADHIKARY PARESH CHANDRA,All India Trinamool Congress,29584.0,Result Declared,MEKLIGANJ,119109,89525,218859,True,False
+265,MEMARI,MANAB GUHA,Bharatiya Janata Party,RASH BIHARI HALDER,All India Trinamool Congress,7106.0,Result Declared,MEMARI,106428,99322,227492,True,False
+157,METIABURUZ,ABDUL KHALEQUE MOLLA,All India Trinamool Congress,BIR BAHADUR SINGH,Bharatiya Janata Party,87879.0,Result Declared,METIABURUZ,36351,124230,180068,False,True
+122,MINAKHAN,USHA RANI MONDAL,All India Trinamool Congress,RUDRENDRA PATRA,Bharatiya Janata Party,32292.0,Result Declared,MINAKHAN,59787,92079,215848,False,True
+263,MONTESWAR,SAIKAT PANJA,Bharatiya Janata Party,CHOWDHURI SIDDIQULLAH,All India Trinamool Congress,14798.0,Result Declared,MONTESWAR,96559,81761,204165,True,False
+52,MOTHABARI,ISLAM MD NAJRUL,All India Trinamool Congress,NIBARAN GHOSH,Bharatiya Janata Party,10496.0,Result Declared,MOTHABARI,55209,65705,162178,False,True
+206,MOYNA,ASHOKE DINDA,Bharatiya Janata Party,CHANDAN MONDAL,All India Trinamool Congress,16241.0,Result Declared,MOYNA,127166,110925,246333,True,False
+294,MURARAI,DR. MOSARRAF HOSSAIN,All India Trinamool Congress,SANJIBUR RAHAMAN (BAPPA),Indian National Congress,37705.0,Result Declared,MURARAI,58664,96902,242939,False,True
+64,MURSHIDABAD,GOURI SANKAR GHOSH,Bharatiya Janata Party,SHAONI SINGHA ROY,All India Trinamool Congress,31521.0,Result Declared,MURSHIDABAD,114443,82922,237534,True,False
+84,NABADWIP,SRUTISEKHAR GOSWAMI,Bharatiya Janata Party,PUNDARIKAKSHYA SAHA,All India Trinamool Congress,21444.0,Result Declared,NABADWIP,108631,87187,218181,True,False
+65,NABAGRAM,DILIP SAHA,Bharatiya Janata Party,PRONAB CHANDRA DAS,All India Trinamool Congress,5919.0,Result Declared,NABAGRAM,78739,72820,221580,True,False
+21,NAGRAKATA,PUNA BHENGRA,Bharatiya Janata Party,SANJAY KUJUR,All India Trinamool Congress,25858.0,Result Declared,NAGRAKATA,103478,77620,203963,True,False
+104,NAIHATI,SUMITRO CHATTERJEE,Bharatiya Janata Party,SANAT DEY,All India Trinamool Congress,10430.0,Result Declared,NAIHATI,77484,67054,157664,True,False
+81,NAKASHIPARA,SANTANU DEY,Bharatiya Janata Party,KALLOL KHAN,All India Trinamool Congress,17327.0,Result Declared,NAKASHIPARA,100600,83273,205920,True,False
+293,NALHATI,RAJENDRA PRASAD SINGH(RAJU SINGH),All India Trinamool Congress,ANIL KUMAR SINGH,Bharatiya Janata Party,13446.0,Result Declared,NALHATI,74298,87744,222519,False,True
+207,NANDAKUMAR,KHANRA NIRMAL,Bharatiya Janata Party,SUKUMAR DE,All India Trinamool Congress,30603.0,Result Declared,NANDAKUMAR,131476,100873,249316,True,False
+210,NANDIGRAM,ADHIKARI SUVENDU,Bharatiya Janata Party,PABITRA KAR,All India Trinamool Congress,9665.0,Result Declared,NANDIGRAM,127301,117636,252722,True,False
+287,NANOOR,BIDHAN CHANDRA MAJHI,All India Trinamool Congress,KHOKAN DAS,Bharatiya Janata Party,8122.0,Result Declared,NANOOR,111788,119910,253119,False,True
+225,NARAYANGARH,GIRI RAMAPRASAD,Bharatiya Janata Party,PRATIBHA MAITI,All India Trinamool Congress,20367.0,Result Declared,NARAYANGARH,116050,95683,225543,True,False
+8,NATABARI,GIRIJA SHANKAR RAY,Bharatiya Janata Party,SAILENDRA NATH BARMA,All India Trinamool Congress,34613.0,Result Declared,NATABARI,126911,92298,232716,True,False
+220,NAYAGRAM,AMIYA KISKU,Bharatiya Janata Party,DULAL MURMU,All India Trinamool Congress,6424.0,Result Declared,NAYAGRAM,100857,94433,207713,True,False
+107,NOAPARA,ARJUN SINGH,Bharatiya Janata Party,TRINANKUR BHATTACHARJEE,All India Trinamool Congress,17656.0,Result Declared,NOAPARA,94415,76759,195177,True,False
+74,NOWDA,HUMAYUN KABIR,Aam Janata Unnayan party,RANA MANDAL,Bharatiya Janata Party,27943.0,Result Declared,NOWDA,58520,51867,221600,False,False
+254,ONDA,AMARNATH SHAKHA,Bharatiya Janata Party,SUBRATA DUTTA (GOPI),All India Trinamool Congress,31723.0,Result Declared,ONDA,128296,96573,246292,True,False
+79,PALASHIPARA,RUKBANUR RAHMAN,All India Trinamool Congress,ANIMA DUTTA,Bharatiya Janata Party,11454.0,Result Declared,PALASHIPARA,77787,89241,214650,False,True
+175,PANCHLA,GULSAN MULLICK,All India Trinamool Congress,RANJAN PAUL,Bharatiya Janata Party,38320.0,Result Declared,PANCHLA,85647,123967,235163,False,True
+275,PANDABESWAR,JITENDRA KUMAR TEWARI,Bharatiya Janata Party,NARENDRANATH CHAKRABORTY,All India Trinamool Congress,1398.0,Result Declared,PANDABESWAR,80501,79103,174712,True,False
+192,PANDUA,TUSAR KUMAR MAJUMDAR,Bharatiya Janata Party,SAMIR CHAKRABORTY,All India Trinamool Congress,5228.0,Result Declared,PANDUA,101349,96121,233718,True,False
+111,PANIHATI,RATNA DEBNATH,Bharatiya Janata Party,TIRTHANKAR GHOSH,All India Trinamool Congress,28836.0,Result Declared,PANIHATI,87977,59141,174984,True,False
+205,PANSKURA PASCHIM,SINTU SENAPATI,Bharatiya Janata Party,SIRAJ KHAN,All India Trinamool Congress,32567.0,Result Declared,PANSKURA PASCHIM,137919,105352,258432,True,False
+204,PANSKURA PURBA,SUBRATA MAITY(RANA),Bharatiya Janata Party,ASHIM KUMAR MAJI,All India Trinamool Congress,17903.0,Result Declared,PANSKURA PURBA,109264,91361,220737,True,False
+245,PARA,NADIAR CHAND BOURI,Bharatiya Janata Party,MANIK CHANDRA BAURI,All India Trinamool Congress,33721.0,Result Declared,PARA,113488,79767,215946,True,False
+212,PATASHPUR,TAPAN MAITY,Bharatiya Janata Party,PIJUS KANTI PANDA,All India Trinamool Congress,9051.0,Result Declared,PATASHPUR,116589,107538,232048,True,False
+130,PATHARPRATIMA,SAMIR KUMAR JANA,All India Trinamool Congress,ASIT KUMAR HALDAR,Bharatiya Janata Party,4873.0,Result Declared,PATHARPRATIMA,112291,117164,246059,False,True
+27,PHANSIDEWA,DURGA MURMU,Bharatiya Janata Party,REENA TOPNO EKKA,All India Trinamool Congress,45263.0,Result Declared,PHANSIDEWA,118241,72978,207732,True,False
+227,PINGLA,SWAGATA MANNA,Bharatiya Janata Party,AJIT MAITY,All India Trinamool Congress,18480.0,Result Declared,PINGLA,124189,105709,242754,True,False
+268,PURBASTHALI DAKSHIN,PRAN KRISHNA TAPADAR,Bharatiya Janata Party,SWAPAN DEBNATH,All India Trinamool Congress,16662.0,Result Declared,PURBASTHALI DAKSHIN,111004,94342,220056,True,False
+269,PURBASTHALI UTTAR,GOPAL CHATTOPADHYAY,Bharatiya Janata Party,VASUNDHARA GOSWAMI,All India Trinamool Congress,30226.0,Result Declared,PURBASTHALI UTTAR,111379,81153,224880,True,False
+199,PURSURAH,BIMAN GHOSH,Bharatiya Janata Party,PARTHA HAZARI,All India Trinamool Congress,53453.0,Result Declared,PURSURAH,138821,85368,240924,True,False
+242,PURULIA,SUDIP KUMAR MUKHERJEE,Bharatiya Janata Party,SUJOY BANERJEE,All India Trinamool Congress,49253.0,Result Declared,PURULIA,128454,79201,230653,True,False
+59,RAGHUNATHGANJ,AKHRUZZAMAN,All India Trinamool Congress,NASIR SAIKH,Indian National Congress,40555.0,Result Declared,RAGHUNATHGANJ,35184,88909,194765,False,True
+246,RAGHUNATHPUR,MAMONI BAURI,Bharatiya Janata Party,HAZARI BOURI,All India Trinamool Congress,44059.0,Result Declared,RAGHUNATHPUR,127628,83569,234431,True,False
+134,RAIDIGHI,TAPAS MONDAL S/O-SHIBPRASAD MONDAL,All India Trinamool Congress,PALASH RANA,Bharatiya Janata Party,5957.0,Result Declared,RAIDIGHI,113034,118991,257773,False,True
+35,RAIGANJ,KOUSHIK CHOWDHURY,Bharatiya Janata Party,KRISHNA KALYANI,All India Trinamool Congress,58641.0,Result Declared,RAIGANJ,105561,46920,164804,True,False
+261,RAINA,SUBHASH PATRA,Bharatiya Janata Party,MANDIRA DALUI,All India Trinamool Congress,834.0,Result Declared,RAINA,103487,102653,233245,True,False
+250,RAIPUR,KSHETRAMOHAN HANSDA,Bharatiya Janata Party,THAKURMANI SAREN,All India Trinamool Congress,28742.0,Result Declared,RAIPUR,111443,82701,210215,True,False
+117,RAJARHAT  GOPALPUR,TARUNJYOTI TEWARI,Bharatiya Janata Party,ADITI MUNSHI,All India Trinamool Congress,27757.0,Result Declared,RAJARHAT  GOPALPUR,101277,73520,195730,True,False
+115,RAJARHAT NEW TOWN,TAPASH CHATTERJEE,All India Trinamool Congress,PIYUSH KANODIA,Bharatiya Janata Party,323.0,Result in Progress,RAJARHAT NEW TOWN,105927,106250,251912,False,True
+18,RAJGANJ,DINESH SARKAR,Bharatiya Janata Party,SWAPNA BARMAN,All India Trinamool Congress,21477.0,Result Declared,RAJGANJ,114657,93180,224379,True,False
+217,RAMNAGAR,DR. CHANDRA SEKHAR MONDAL,Bharatiya Janata Party,AKHIL GIRI,All India Trinamool Congress,26939.0,Result Declared,RAMNAGAR,131808,104869,244842,True,False
+291,RAMPURHAT,DHRUBA SAHA,Bharatiya Janata Party,ASISH BANERJEE,All India Trinamool Congress,24233.0,Result Declared,RAMPURHAT,111920,87687,233723,True,False
+90,RANAGHAT DAKSHIN,ASHIM KUMAR BISWAS,Bharatiya Janata Party,SOUGATA KUMAR BURMAN,All India Trinamool Congress,64464.0,Result Declared,RANAGHAT DAKSHIN,140010,75546,232685,True,False
+87,RANAGHAT UTTAR PASCHIM,PARTHA SARATHI CHATTERJEE(BABU),Bharatiya Janata Party,TAPAS KUMAR GHOSH,All India Trinamool Congress,57551.0,Result Declared,RANAGHAT UTTAR PASCHIM,129046,71495,217135,True,False
+89,RANAGHAT UTTAR PURBA,ASHIM BISWAS,Bharatiya Janata Party,BARNALI DEY ROY,All India Trinamool Congress,51743.0,Result Declared,RANAGHAT UTTAR PURBA,126235,74492,211396,True,False
+249,RANIBANDH,KSHUDIRAM TUDU,Bharatiya Janata Party,TANUSHREE HANSDA,All India Trinamool Congress,52269.0,Result Declared,RANIBANDH,131145,78876,236828,True,False
+278,RANIGANJ,PARTHA GHOSH,Bharatiya Janata Party,KALOBARAN MONDAL,All India Trinamool Congress,17786.0,Result Declared,RANIGANJ,97416,79630,196484,True,False
+63,RANINAGAR,JULFIKAR ALI,Indian National Congress,ABDUL SOUMIK HOSSAIN,All India Trinamool Congress,2701.0,Result Declared,RANINAGAR,22728,76722,237202,False,False
+160,RASHBEHARI,DASGUPTA SWAPAN,Bharatiya Janata Party,DEBASISH KUMAR (DEBA),All India Trinamool Congress,20865.0,Result Declared,RASHBEHARI,74123,53258,138814,True,False
+48,RATUA,SAMAR MUKHERJEE,All India Trinamool Congress,ABISHEK SINGHANIA,Bharatiya Janata Party,32562.0,Result Declared,RATUA,74272,106834,233138,False,True
+70,REJINAGAR,HUMAYUN KABIR,Aam Janata Unnayan party,BAPAN GHOSH,Bharatiya Janata Party,58876.0,Result Declared,REJINAGAR,64660,41718,239295,False,False
+226,SABANG,AMAL KUMAR PANDA,Bharatiya Janata Party,MANAS RANJAN BHUNIA,All India Trinamool Congress,11136.0,Result Declared,SABANG,127783,116647,257340,True,False
+132,SAGAR,SUMANTA MANDAL,Bharatiya Janata Party,BANKIM CHANDRA HAZRA,All India Trinamool Congress,7881.0,Result Declared,SAGAR,127802,119921,258107,True,False
+60,SAGARDIGHI,BAYRON BISWAS,All India Trinamool Congress,TAPAS KUMAR CHAKRABORTY,Bharatiya Janata Party,34260.0,Result Declared,SAGARDIGHI,56521,90781,207660,False,True
+289,SAINTHIA,KRISHNA KANTA SAHA,Bharatiya Janata Party,NILABATI SAHA,All India Trinamool Congress,10306.0,Result Declared,SAINTHIA,115054,104748,241175,True,False
+234,SALBONI,BIMAN MAHATA,Bharatiya Janata Party,SRIKANTA MAHATA,All India Trinamool Congress,15243.0,Result Declared,SALBONI,132856,117613,266475,True,False
+247,SALTORA,CHANDANA BAURI,Bharatiya Janata Party,UTTAM BAURI,All India Trinamool Congress,32135.0,Result Declared,SALTORA,115180,83045,218491,True,False
+56,SAMSERGANJ,MOHAMMED NOOR ALAM,All India Trinamool Congress,MD NAJME ALAM,Indian National Congress,7587.0,Result Declared,SAMSERGANJ,34522,61918,155430,False,True
+123,SANDESHKHALI,SANAT SARDAR,Bharatiya Janata Party,JHARNA SARDAR,All India Trinamool Congress,17510.0,Result Declared,SANDESHKHALI,107189,89679,216180,True,False
+174,SANKRAIL,PRIYA PAUL,All India Trinamool Congress,BARNALI DHALI NASKAR,Bharatiya Janata Party,16740.0,Result Declared,SANKRAIL,88672,105412,229210,False,True
+86,SANTIPUR,SWAPAN KUMAR DAS,Bharatiya Janata Party,BRAJAKISHORE GOSWAMI,All India Trinamool Congress,45376.0,Result Declared,SANTIPUR,117941,72565,214973,True,False
+193,SAPTAGRAM,SWARAJ GHOSH,Bharatiya Janata Party,BIDESH RANJAN BOSE,All India Trinamool Congress,23289.0,Result Declared,SAPTAGRAM,102414,79125,196584,True,False
+145,SATGACHHIA,AGNISWAR NASKAR,Bharatiya Janata Party,SOMASHREE BETAL,All India Trinamool Congress,401.0,Result Declared,SATGACHHIA,111023,110622,239370,True,False
+172,SHIBPUR,RUDRANIL GHOSH,Bharatiya Janata Party,DR. RANA CHATTERJEE,All India Trinamool Congress,16058.0,Result Declared,SHIBPUR,89615,73557,181323,True,False
+166,SHYAMPUKUR,PURNIMA CHAKRABORTY,Bharatiya Janata Party,SHASHI PANJA,All India Trinamool Congress,14633.0,Result Declared,SHYAMPUKUR,60248,45615,116768,True,False
+179,SHYAMPUR,DR. HIRANMOY CHATTOPADHYAYA (HIRAAN),Bharatiya Janata Party,NADEBASI JANA,All India Trinamool Congress,22260.0,Result Declared,SHYAMPUR,125651,103391,244669,True,False
+26,SILIGURI,SHANKAR GHOSH,Bharatiya Janata Party,GOUTAM DEB,All India Trinamool Congress,73192.0,Result Declared,SILIGURI,120760,47568,183573,True,False
+188,SINGUR,ARUP KUMAR DAS,Bharatiya Janata Party,BECHARAM MANNA,All India Trinamool Congress,21438.0,Result Declared,SINGUR,113008,91570,222573,True,False
+6,SITAI,SANGITA ROY,All India Trinamool Congress,ASHUTOSH BARMA,Bharatiya Janata Party,2721.0,Result Declared,SITAI,125467,128188,265319,False,True
+5,SITALKUCHI,SABITRI BARMAN,Bharatiya Janata Party,HARIHAR DAS,All India Trinamool Congress,25278.0,Result Declared,SITALKUCHI,144367,119089,279822,True,False
+258,SONAMUKHI,DIBAKAR GHARAMI,Bharatiya Janata Party,KALLOL SAHA,All India Trinamool Congress,29410.0,Result Declared,SONAMUKHI,115549,86139,221852,True,False
+147,SONARPUR DAKSHIN,RUPA GANGULY,Bharatiya Janata Party,ARUNDHUTI MAITRA(LOVELY),All India Trinamool Congress,35782.0,Result Declared,SONARPUR DAKSHIN,128970,93188,246393,True,False
+151,SONARPUR UTTAR,DEBASISH DHAR,Bharatiya Janata Party,FIRDOUSI BEGAM,All India Trinamool Congress,9807.0,Result Declared,SONARPUR UTTAR,119824,110017,256444,True,False
+186,SREERAMPUR,BHASKAR BHATTACHARYA,Bharatiya Janata Party,TANMOY GHOSH,All India Trinamool Congress,8685.0,Result Declared,SREERAMPUR,85644,76959,186297,True,False
+53,SUJAPUR,SABINA YEASMIN,All India Trinamool Congress,ABDUL HANNAN,Indian National Congress,60287.0,Result Declared,SUJAPUR,20066,112795,227125,False,True
+285,SURI,JAGANNATH CHATTOPADHYAY,Bharatiya Janata Party,UJJAL CHATTERJEE,All India Trinamool Congress,28686.0,Result Declared,SURI,124243,95557,238504,True,False
+57,SUTI,EMANI BISWAS,All India Trinamool Congress,MAHABIR GHOSH,Bharatiya Janata Party,12357.0,Result Declared,SUTI,68973,81330,220852,False,True
+98,SWARUPNAGAR,BINA MONDAL,All India Trinamool Congress,TARAK SAHA,Bharatiya Janata Party,16017.0,Result Declared,SWARUPNAGAR,78796,94813,218120,False,True
+251,TALDANGRA,SOUVIK PATRA,Bharatiya Janata Party,FALGUNI SINGHABABU,All India Trinamool Congress,50073.0,Result Declared,TALDANGRA,124537,74464,219936,True,False
+203,TAMLUK,HARE KRISHNA BERA,Bharatiya Janata Party,DIPENDRA NARAYAN ROY,All India Trinamool Congress,34729.0,Result Declared,TAMLUK,136566,101837,256930,True,False
+40,TAPAN,BUDHRAI TUDU,Bharatiya Janata Party,CHINTAMANI BIHA,All India Trinamool Congress,36987.0,Result Declared,TAPAN,105780,68793,186702,True,False
+198,TARAKESWAR,SANTU PAN,Bharatiya Janata Party,RAMENDU SINHARAY,All India Trinamool Congress,30999.0,Result Declared,TARAKESWAR,116901,85902,221578,True,False
+78,TEHATTA,SUBRATA KABIRAJ,Bharatiya Janata Party,DILIP KUMAR PODDAR,All India Trinamool Congress,28253.0,Result Declared,TEHATTA,112138,83885,233588,True,False
+152,TOLLYGANJ,PAPIA ADHIKARY,Bharatiya Janata Party,AROOP BISWAS,All India Trinamool Congress,6013.0,Result Declared,TOLLYGANJ,88407,82394,205661,True,False
+9,TUFANGANJ,MALATI RAVA ROY,Bharatiya Janata Party,SHIBSANKAR PAUL,All India Trinamool Congress,26457.0,Result Declared,TUFANGANJ,122525,96068,230829,True,False
+182,UDAYNARAYANPUR,SAMIR KUMAR PANJA,All India Trinamool Congress,PROBHAKAR PANDIT,Bharatiya Janata Party,12227.0,Result Declared,UDAYNARAYANPUR,93575,105802,213603,False,True
+178,ULUBERIA DAKSHIN,PULAK ROY,All India Trinamool Congress,SWAMI MANGALANANDA PURI,Bharatiya Janata Party,17187.0,Result Declared,ULUBERIA DAKSHIN,92462,109649,226271,False,True
+176,ULUBERIA PURBA,RITABRATA BANERJEE,All India Trinamool Congress,RUDRA PROSAD BANERJEE,Bharatiya Janata Party,11838.0,Result Declared,ULUBERIA PURBA,83795,95633,208025,False,True
+177,ULUBERIA UTTAR,CHIRAN BERA,Bharatiya Janata Party,BIMAL KUMAR DAS,All India Trinamool Congress,4177.0,Result Declared,ULUBERIA UTTAR,93320,89143,203466,True,False
+185,UTTARPARA,DIPANJAN CHAKRABORTY,Bharatiya Janata Party,SIRSANYA BANDOPADHYAY,All India Trinamool Congress,10415.0,Result Declared,UTTARPARA,80612,70197,205454,True,False
