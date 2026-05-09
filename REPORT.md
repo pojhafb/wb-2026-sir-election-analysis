@@ -18,6 +18,12 @@ An article (Nilanjan Mukhopadhyay, Rediff, May 7 2026) juxtaposes the ~32 lakh a
 
 ---
 
+## Methodology
+
+We model the potential impact of the 27 lakh excluded voters as follows. Each excluded voter is assigned to one of West Bengal's 293 declared constituencies and is assumed to vote based on their religious identity. Rather than adopting a single "best guess" set of voting probabilities, we sweep a **full 5×5 sensitivity grid**: Muslim voters' TMC vote share ranges from 50% (BJP-biased) to 90% (TMC-biased) in steps of 10%, while Hindu voters' TMC share ranges from 15% to 55%. At each point, the BJP share absorbs the remainder after a fixed "Others" share (8% Muslim, 10% Hindu). Turnout is separately varied from 60% to 100%. Two geographic models are tested: (a) *uniform* — equal allocation across all 293 seats (~9,215 voters each), and (b) *non-uniform* — weighted allocation by district-level Muslim population share (Census 2011), reflecting that the pending 27L were disproportionately from Muslim-heavy districts. For each (probability, turnout, geography) combination, we count how many BJP-won seats would have seen a net TMC vote gain exceeding the actual BJP winning margin, i.e., would have flipped. A Monte Carlo simulation (10,000 runs) then samples all parameters simultaneously from their full ranges with added geographic noise. Finally, an analytical upper bound removes geographic constraints entirely and asks: even if all voters could be placed optimally in marginal seats, how many could flip? This framework ensures no single set of assumptions drives the conclusion — the reader can locate their preferred assumptions in the grid and read off the result.
+
+---
+
 ## Election Data
 
 | Metric | Value |
