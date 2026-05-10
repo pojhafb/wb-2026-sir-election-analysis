@@ -1,49 +1,67 @@
 """
-West Bengal 2026 Election — SIR Voter Exclusion Impact Analysis
-Entry point: runs scraping, analysis, visualization, and report generation.
+Entry point — uses the new election_analysis package.
 
 Usage:
-    python main.py              # Full pipeline
+    python main.py              # Full pipeline (scrape + analyze + visualize + report)
     python main.py --no-scrape  # Skip scraping; use existing wb_2026_results.csv
 """
 
-import sys
 import argparse
 from pathlib import Path
 
+import pandas as pd
 
-def main():
+from configs.wb_2026_sir import WB_2026_ELECTION, WB_2026_SIR_EXCLUSION
+from election_analysis.scraper import ECIScraper
+from election_analysis.analyzer import VoterExclusionAnalyzer
+from election_analysis.visualizer import ElectionVisualizer
+from election_analysis.reporter import ReportGenerator
+
+
+def main() -> None:
     parser = argparse.ArgumentParser(
-        description="WB 2026 Election SIR voter exclusion impact analysis"
+        description=f"Election voter exclusion impact analysis"
     )
     parser.add_argument(
         "--no-scrape",
         action="store_true",
         help="Skip scraping; use existing wb_2026_results.csv",
     )
+    parser.add_argument(
+        "--csv",
+        default="wb_2026_results.csv",
+        help="CSV path to use with --no-scrape (default: wb_2026_results.csv)",
+    )
     args = parser.parse_args()
 
+    ec = WB_2026_ELECTION
     print("=" * 60)
-    print("West Bengal 2026: SIR Voter Exclusion Impact Analysis")
+    print(f"{ec.state_name} {ec.year}: SIR Voter Exclusion Impact Analysis")
     print("=" * 60)
 
     if not args.no_scrape:
-        from scraper import run_scrape
-        df = run_scrape()
+        scraper = ECIScraper(WB_2026_ELECTION)
+        df = scraper.scrape()
     else:
-        if not Path("wb_2026_results.csv").exists():
-            print("ERROR: wb_2026_results.csv not found. Run without --no-scrape first.")
-            sys.exit(1)
-        print("Using existing wb_2026_results.csv")
+        csv_path = Path(args.csv)
+        if not csv_path.exists():
+            print(f"ERROR: {csv_path} not found. Run without --no-scrape first.")
+            raise SystemExit(1)
+        print(f"Using existing {csv_path}")
+        df = pd.read_csv(csv_path)
 
-    from analyzer import run_analysis
-    results = run_analysis()
+    analyzer = VoterExclusionAnalyzer(df, WB_2026_ELECTION, WB_2026_SIR_EXCLUSION)
+    results = analyzer.run_all()
 
-    from visualizer import generate_all
-    generate_all(results)
+    # Save Monte Carlo results CSV
+    results.monte_carlo.raw.to_csv("monte_carlo_results.csv", index=False)
+    print("Saved monte_carlo_results.csv")
 
-    from report import generate_report
-    generate_report(results)
+    visualizer = ElectionVisualizer(results)
+    visualizer.generate_all()
+
+    reporter = ReportGenerator(results)
+    reporter.generate()
 
     print("\n" + "=" * 60)
     print("PIPELINE COMPLETE")
@@ -63,8 +81,8 @@ def main():
     ]
     print("\nOutput files:")
     for f in outputs:
-        exists = "✓" if Path(f).exists() else "✗"
-        print(f"  {exists} {f}")
+        marker = "OK" if Path(f).exists() else "MISSING"
+        print(f"  [{marker}] {f}")
 
 
 if __name__ == "__main__":
