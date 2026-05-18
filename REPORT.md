@@ -1,6 +1,6 @@
 # West Bengal 2026 Election: Statistical Analysis of SIR Voter Exclusion Impact
 
-*Generated: 2026-05-10 | Data source: Election Commission of India (via Internet Archive)*
+*Generated: 2026-05-17 | Data source: Election Commission of India (via Internet Archive)*
 
 ---
 

@@ -16,6 +16,7 @@ from election_analysis.scraper import ECIScraper
 from election_analysis.analyzer import VoterExclusionAnalyzer
 from election_analysis.visualizer import ElectionVisualizer
 from election_analysis.reporter import ReportGenerator
+from election_analysis.pdf_report import PDFReportGenerator
 
 
 def main() -> None:
@@ -63,6 +64,9 @@ def main() -> None:
     reporter = ReportGenerator(results)
     reporter.generate()
 
+    pdf_gen = PDFReportGenerator(results, output_dir=Path("."))
+    pdf_gen.generate("WB_2026_SIR_Analysis.pdf")
+
     print("\n" + "=" * 60)
     print("PIPELINE COMPLETE")
     print("=" * 60)
@@ -78,6 +82,7 @@ def main() -> None:
         "fig4_monte_carlo.png",
         "fig5_marginal_seats.png",
         "REPORT.md",
+        "WB_2026_SIR_Analysis.pdf",
     ]
     print("\nOutput files:")
     for f in outputs:
